@@ -1,0 +1,2678 @@
+reaction,server,converged,error,best_ts_method,branch,execution_time
+rxn_1366,Zeus,True,,heuristics,qchem,9755
+rxn_1019,Zeus,True,,heuristics,qchem,7697
+rxn_1098,Zeus,False,Could not determine likely TS conformer,,qchem,5961
+rxn_1619,Zeus,True,,heuristics,gaussian_unconverge_trsh,22960
+rxn_156,Zeus,False,Could not determine likely TS conformer,,qchem,66983
+rxn_819,Zeus,False,Could not determine likely TS conformer,,qchem,31981
+rxn_1561,Zeus,True,,heuristics,zeus_run,179718
+rxn_1316,Zeus,True,,autotst,qchem,62312
+rxn_177,Zeus,False,Could not determine likely TS conformer,,qchem,7050
+rxn_143,Zeus,True,TS did not pass all checks,heuristics,qchem,703
+rxn_1438,Zeus,True,,heuristics,qchem,20968
+rxn_415,Zeus,True,,heuristics,qchem,24960
+rxn_618,Zeus,True,,heuristics,qchem,78261
+rxn_1292,Zeus,True,,heuristics,qchem,9858
+rxn_991,Zeus,True,,heuristics,qchem,10695
+rxn_65,Zeus,False,Could not determine likely TS conformer,,qchem,2010
+rxn_624,Zeus,True,,heuristics,qchem,256
+rxn_1016,Zeus,True,,heuristics,qchem,4423
+rxn_89,Zeus,True,,heuristics,qchem,337
+rxn_575,Zeus,False,Could not determine likely TS conformer,,qchem,441892
+rxn_179,Zeus,True,,heuristics,qchem,21750
+rxn_910,Zeus,True,,heuristics,qchem,1759
+rxn_286,Zeus,True,,autotst,qchem,1397
+rxn_1914,Zeus,True,,heuristics,gauss_trsh_cleanup,33077
+rxn_138,Zeus,False,Could not determine likely TS conformer,,qchem,1673
+rxn_277,Zeus,True,,autotst,qchem,10178
+rxn_1071,Zeus,True,,heuristics,qchem,16427
+rxn_300,Zeus,True,,heuristics,qchem,5432
+rxn_849,Zeus,True,,heuristics,qchem,4265
+rxn_331,Zeus,True,,heuristics,qchem,3285
+rxn_1037,Zeus,True,,heuristics,qchem,4289
+rxn_99,Zeus,True,,heuristics,qchem,1706
+rxn_1502,Zeus,True,,heuristics,qchem,47653
+rxn_780,Zeus,True,,heuristics,qchem,2513
+rxn_1342,Zeus,True,,heuristics,qchem,14957
+rxn_350,Zeus,False,Could not determine likely TS conformer,,qchem,2566
+rxn_407,Zeus,True,,heuristics,qchem,15078
+rxn_212,Zeus,False,Could not determine likely TS conformer,,qchem,10984
+rxn_1204,Zeus,True,,heuristics,qchem,42493
+rxn_581,Zeus,True,,autotst,qchem,51523
+rxn_1387,Zeus,True,,heuristics,qchem,8323
+rxn_1637,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,23595
+rxn_328,Zeus,True,,heuristics,qchem,1836
+rxn_582,Zeus,True,,autotst,qchem,94521
+rxn_15,Zeus,True,,heuristics,qchem,25369
+rxn_378,Zeus,False,Could not determine likely TS conformer,,qchem,2270
+rxn_1889,Zeus,True,,heuristics,gauss_trsh_cleanup,6788
+rxn_1169,Zeus,True,,heuristics,qchem,14597
+rxn_943,Zeus,True,,heuristics,qchem,5647
+rxn_1278,Zeus,True,,heuristics,qchem,14506
+rxn_1121,Zeus,True,,heuristics,qchem,9176
+rxn_1897,Zeus,True,,heuristics,gauss_trsh_cleanup,4761
+rxn_738,Zeus,True,,heuristics,qchem,48272
+rxn_878,Zeus,False,Could not determine likely TS conformer,,qchem,2933
+rxn_410,Zeus,True,,heuristics,qchem,17823
+rxn_445,Zeus,True,,autotst,qchem,25931
+rxn_574,Zeus,True,,heuristics,qchem,67315
+rxn_448,Zeus,False,Could not determine likely TS conformer,,qchem,35372
+rxn_1203,Zeus,True,,heuristics,qchem,38669
+rxn_435,Zeus,False,Could not determine likely TS conformer,,qchem,6476
+rxn_237,Zeus,False,Could not determine likely TS conformer,,qchem,19393
+rxn_1211,Zeus,True,,heuristics,qchem,29302
+rxn_450,Zeus,True,,heuristics,qchem,7923
+rxn_1996,Zeus,True,,heuristics,gauss_conformer_comb,5171
+rxn_135,Zeus,True,TS did not pass all checks,heuristics,qchem,2315
+rxn_235,Zeus,True,,autotst,qchem,13325
+rxn_1725,Zeus,False,Could not determine likely TS conformer,,heurist_impr,139206
+rxn_949,Zeus,True,,heuristics,qchem,8079
+rxn_1621,Zeus,True,,heuristics,gaussian_unconverge_trsh,4357
+rxn_716,Zeus,False,Could not determine likely TS conformer,,qchem,6278
+rxn_562,Zeus,True,,heuristics,qchem,55222
+rxn_1467,Zeus,True,,heuristics,qchem,21253
+rxn_768,Zeus,False,Could not determine likely TS conformer,,qchem,18474
+rxn_1912,Zeus,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,34201
+rxn_1835,Zeus,True,,heuristics,gauss_trsh_cleanup,2253
+rxn_1667,Zeus,True,,heuristics,main,11051
+rxn_392,Zeus,True,,heuristics,qchem,1269
+rxn_1586,Zeus,True,,heuristics,gaussian_unconverge_trsh,2817
+rxn_879,Zeus,True,,heuristics,qchem,14068
+rxn_998,Zeus,True,,heuristics,qchem,4144
+rxn_866,Zeus,True,,heuristics,qchem,1900
+rxn_718,Zeus,False,Could not determine likely TS conformer,,qchem,904
+rxn_207,Zeus,False,Could not determine likely TS conformer,,qchem,7396
+rxn_1133,Zeus,True,,heuristics,qchem,28127
+rxn_1611,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,28780
+rxn_1967,Zeus,True,,heuristics,gauss_trsh_cleanup,33236
+rxn_1444,Zeus,True,,heuristics,qchem,34058
+rxn_795,Zeus,True,,heuristics,qchem,10723
+rxn_1349,Zeus,True,,heuristics,qchem,14051
+rxn_639,Zeus,False,Could not determine likely TS conformer,,qchem,1175
+rxn_701,Zeus,True,,autotst,qchem,2333
+rxn_460,Zeus,True,,heuristics,qchem,13164
+rxn_1269,Zeus,True,,heuristics,qchem,42005
+rxn_1844,Zeus,True,,heuristics,gauss_trsh_cleanup,5855
+rxn_417,Zeus,True,,heuristics,qchem,11668
+rxn_93,Zeus,True,,heuristics,qchem,2325
+rxn_1192,Zeus,True,,heuristics,qchem,20908
+rxn_131,Zeus,True,TS did not pass all checks,heuristics,qchem,373
+rxn_830,Zeus,True,,heuristics,qchem,13464
+rxn_1843,Zeus,True,,heuristics,gauss_trsh_cleanup,14936
+rxn_1085,Zeus,True,,heuristics,qchem,16959
+rxn_468,Zeus,True,,heuristics,qchem,11944
+rxn_347,Zeus,True,,heuristics,qchem,3025
+rxn_786,Zeus,False,Could not determine likely TS conformer,,qchem,4772
+rxn_249,Zeus,True,,heuristics,qchem,2024
+rxn_224,Zeus,False,Could not determine likely TS conformer,,qchem,4323
+rxn_611,Zeus,True,,heuristics,qchem,81173
+rxn_1077,Zeus,True,,heuristics,qchem,17847
+rxn_1418,Zeus,True,,heuristics,qchem,22404
+rxn_796,Zeus,True,,heuristics,qchem,27787
+rxn_1266,Zeus,True,,heuristics,qchem,45695
+rxn_1663,Zeus,True,,heuristics,main,38753
+rxn_656,Zeus,True,,autotst,qchem,1710018
+rxn_684,Zeus,False,Could not determine likely TS conformer,,qchem,3042
+rxn_1479,Zeus,True,,heuristics,qchem,16944
+rxn_492,Zeus,False,Could not determine likely TS conformer,,qchem,2156
+rxn_594,Zeus,True,,autotst,qchem,36136
+rxn_30,Zeus,True,,heuristics,qchem,13918
+rxn_346,Zeus,False,Could not determine likely TS conformer,,qchem,2592
+rxn_1503,Zeus,True,,heuristics,qchem,56931
+rxn_1604,Zeus,True,,heuristics,gaussian_unconverge_trsh,2683
+rxn_1092,Zeus,True,,heuristics,qchem,22267
+rxn_1039,Zeus,True,,heuristics,qchem,3788
+rxn_1986,Zeus,True,,heuristics,gauss_trsh_cleanup,11238
+rxn_933,Zeus,True,,heuristics,qchem,12340
+rxn_1578,Zeus,False,Could not determine likely TS conformer,,zeus_run,8618
+rxn_636,Zeus,False,Could not determine likely TS conformer,,qchem,643
+rxn_1358,Zeus,True,,heuristics,qchem,18520
+rxn_464,Zeus,True,,heuristics,qchem,2700
+rxn_398,Zeus,True,,heuristics,qchem,5618
+rxn_37,Zeus,True,,heuristics,qchem,9856
+rxn_1113,Zeus,True,,heuristics,qchem,27528
+rxn_1890,Zeus,True,,heuristics,gauss_trsh_cleanup,12591
+rxn_197,Zeus,True,,heuristics,qchem,2872
+rxn_954,Zeus,True,,heuristics,qchem,17689
+rxn_1006,Zeus,True,,heuristics,qchem,9367
+rxn_208,Zeus,True,,autotst,qchem,6105
+rxn_313,Zeus,False,Could not determine likely TS conformer,,qchem,5895
+rxn_898,Zeus,True,,heuristics,qchem,9563
+rxn_1436,Zeus,True,,heuristics,qchem,20515
+rxn_1293,Zeus,True,,heuristics,qchem,14906
+rxn_1633,Zeus,True,,heuristics,gaussian_unconverge_trsh,7978
+rxn_129,Zeus,True,,heuristics,qchem,914
+rxn_742,Zeus,True,,heuristics,qchem,23756
+rxn_1814,Zeus,True,,heuristics,gauss_trsh_cleanup,3872
+rxn_124,Zeus,True,,heuristics,qchem,1055
+rxn_1478,Zeus,True,,heuristics,qchem,17060
+rxn_482,Zeus,True,,heuristics,qchem,1117
+rxn_1180,Zeus,True,,heuristics,qchem,47331
+rxn_420,Zeus,True,,heuristics,qchem,5060
+rxn_1328,Zeus,True,,heuristics,qchem,24926
+rxn_1529,Zeus,True,,heuristics,qchem,83270
+rxn_851,Zeus,True,,heuristics,qchem,6643
+rxn_921,Zeus,True,,heuristics,qchem,8932
+rxn_1869,Zeus,True,,heuristics,gauss_trsh_cleanup,5131
+rxn_155,Zeus,True,TS did not pass all checks,heuristics,qchem,26138
+rxn_92,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,3436
+rxn_52,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,3492
+rxn_1275,Zeus,True,,heuristics,qchem,6771
+rxn_613,Zeus,True,,autotst,qchem,121773
+rxn_73,Zeus,False,Could not determine likely TS conformer,,qchem,2009
+rxn_368,Zeus,True,,autotst,qchem,3538
+rxn_1838,Zeus,True,,heuristics,gauss_trsh_cleanup,5997
+rxn_973,Zeus,True,,heuristics,qchem,7231
+rxn_1792,Zeus,True,,heuristics,gauss_trsh_cleanup,3059
+rxn_325,Zeus,True,,heuristics,qchem,1086
+rxn_1796,Zeus,True,,autotst,gauss_trsh_cleanup,48476
+rxn_100,Zeus,True,,heuristics,qchem,1253
+rxn_1023,Zeus,True,,heuristics,qchem,16923
+rxn_741,Zeus,True,,heuristics,qchem,26158
+rxn_1657,Zeus,True,,autotst,main,39643
+rxn_1303,Zeus,True,,heuristics,qchem,9075
+rxn_110,Zeus,True,,heuristics,qchem,4180
+rxn_1011,Zeus,True,,heuristics,qchem,31900
+rxn_606,Zeus,True,,heuristics,qchem,121939
+rxn_95,Zeus,True,,heuristics,qchem,2791
+rxn_769,Zeus,False,Could not determine likely TS conformer,,qchem,1107
+rxn_1172,Zeus,True,,heuristics,qchem,39323
+rxn_1810,Zeus,True,,heuristics,gauss_trsh_cleanup,7348
+rxn_1302,Zeus,True,,heuristics,qchem,4275
+rxn_1415,Zeus,True,,heuristics,qchem,22770
+rxn_279,Zeus,True,,heuristics,qchem,8859
+rxn_876,Zeus,True,,heuristics,qchem,7237
+rxn_1926,Zeus,True,,autotst,gauss_trsh_cleanup,34462
+rxn_772,Zeus,True,,heuristics,qchem,9955
+rxn_1042,Zeus,False,Could not determine likely TS conformer,,qchem,18266
+rxn_1632,Zeus,True,,heuristics,gaussian_unconverge_trsh,9519
+rxn_323,Zeus,False,Could not determine likely TS conformer,,qchem,5354
+rxn_33,Zeus,False,Could not determine likely TS conformer,,qchem,12580
+rxn_229,Zeus,True,,heuristics,qchem,7233
+rxn_652,Zeus,False,Could not determine likely TS conformer,,qchem,16113
+rxn_133,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,3216
+rxn_869,Zeus,True,,heuristics,qchem,9419
+rxn_142,Zeus,False,Could not determine likely TS conformer,,qchem,3556
+rxn_1452,Zeus,True,,heuristics,qchem,38143
+rxn_1155,Zeus,True,,heuristics,qchem,23093
+rxn_1507,Zeus,True,,heuristics,qchem,57723
+rxn_1433,Zeus,True,,autotst,qchem,62356
+rxn_596,Zeus,True,,autotst,qchem,59585
+rxn_1371,Zeus,True,,heuristics,qchem,12616
+rxn_1284,Zeus,True,,heuristics,qchem,20161
+rxn_484,Zeus,True,,heuristics,qchem,2071
+rxn_676,Zeus,True,,heuristics,qchem,610
+rxn_775,Zeus,True,,heuristics,qchem,2086
+rxn_251,Zeus,True,,heuristics,qchem,2961
+rxn_1265,Zeus,True,,heuristics,qchem,13549
+rxn_69,Zeus,False,Could not determine likely TS conformer,,qchem,687
+rxn_1264,Zeus,True,,heuristics,qchem,17733
+rxn_488,Zeus,False,Could not determine likely TS conformer,,qchem,3172
+rxn_628,Zeus,False,Could not determine likely TS conformer,,qchem,797
+rxn_1053,Zeus,True,,heuristics,qchem,59883
+rxn_1166,Zeus,True,,heuristics,qchem,42993
+rxn_1558,Zeus,True,,heuristics,heurist_impr,121041
+rxn_637,Zeus,True,TS did not pass all checks,heuristics,qchem,492
+rxn_855,Zeus,True,,heuristics,qchem,3884
+rxn_1888,Zeus,True,,heuristics,gauss_trsh_cleanup,4718
+rxn_993,Zeus,True,,heuristics,qchem,36007
+rxn_231,Zeus,True,,heuristics,qchem,2002
+rxn_846,Zeus,True,,heuristics,qchem,5749
+rxn_922,Zeus,True,,heuristics,qchem,11943
+rxn_329,Zeus,False,Could not determine likely TS conformer,,qchem,3321
+rxn_914,Zeus,True,,heuristics,qchem,8087
+rxn_985,Zeus,True,,heuristics,qchem,21039
+rxn_773,Zeus,True,,heuristics,qchem,1030
+rxn_648,Zeus,True,,heuristics,qchem,936
+rxn_1651,Zeus,False,Could not determine likely TS conformer,,main,19928
+rxn_1392,Zeus,True,,heuristics,qchem,11997
+rxn_755,Zeus,False,Could not determine likely TS conformer,,qchem,954
+rxn_814,Zeus,False,Could not determine likely TS conformer,,qchem,1218172
+rxn_940,Zeus,True,,heuristics,qchem,8499
+rxn_1607,Zeus,True,,heuristics,main,4447
+rxn_8,Zeus,False,Could not determine likely TS conformer,,qchem,42252
+rxn_362,Zeus,False,Could not determine likely TS conformer,,qchem,1197
+rxn_104,Zeus,True,,heuristics,qchem,5614
+rxn_288,Zeus,True,,heuristics,qchem,474
+rxn_1658,Zeus,True,,heuristics,main,22428
+rxn_360,Zeus,False,Could not determine likely TS conformer,,qchem,1380
+rxn_178,Zeus,True,,heuristics,qchem,14110
+rxn_1058,Zeus,True,,heuristics,qchem,8032
+rxn_736,Zeus,False,Could not determine likely TS conformer,,qchem,181500
+rxn_1504,Zeus,True,,heuristics,qchem,73477
+rxn_1179,Zeus,True,,heuristics,qchem,34713
+rxn_969,Zeus,True,,heuristics,qchem,13630
+rxn_144,Zeus,True,TS did not pass all checks,heuristics,qchem,338
+rxn_366,Zeus,True,,heuristics,qchem,1751
+rxn_472,Zeus,False,Could not determine likely TS conformer,,qchem,9108
+rxn_491,Zeus,True,,heuristics,qchem,33291
+rxn_419,Zeus,True,,heuristics,qchem,9457
+rxn_666,Zeus,False,Could not determine likely TS conformer,,qchem,530
+rxn_1807,Zeus,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,5205
+rxn_264,Zeus,True,TS did not pass all checks,heuristics,qchem,14532
+rxn_422,Zeus,True,,autotst,qchem,38834
+rxn_761,Zeus,True,,heuristics,qchem,4162
+rxn_978,Zeus,True,,heuristics,qchem,18424
+rxn_586,Zeus,True,,autotst,qchem,45514
+rxn_836,Zeus,True,,heuristics,qchem,4080
+rxn_1923,Zeus,True,,heuristics,gauss_trsh_cleanup,40321
+rxn_330,Zeus,True,,heuristics,qchem,1857
+rxn_1517,Zeus,True,,heuristics,qchem,33510
+rxn_1933,Zeus,True,,heuristics,gauss_trsh_cleanup,7820
+rxn_835,Zeus,True,,heuristics,qchem,2318
+rxn_115,Zeus,True,,heuristics,qchem,1233
+rxn_1191,Zeus,True,,heuristics,qchem,18174
+rxn_619,Zeus,False,Could not determine likely TS conformer,,qchem,272366
+rxn_1044,Zeus,True,,heuristics,qchem,15681
+rxn_238,Zeus,True,,heuristics,qchem,2097
+rxn_385,Zeus,False,Could not determine likely TS conformer,,qchem,3959
+rxn_1465,Zeus,True,,heuristics,qchem,27609
+rxn_1202,Zeus,True,,heuristics,qchem,52454
+rxn_931,Zeus,True,,heuristics,qchem,8745
+rxn_1824,Zeus,True,,heuristics,gauss_trsh_cleanup,3030
+rxn_367,Zeus,False,Could not determine likely TS conformer,,qchem,2653
+rxn_840,Zeus,True,,heuristics,qchem,23462
+rxn_1858,Zeus,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,1504
+rxn_474,Zeus,True,,heuristics,qchem,1174
+rxn_265,Zeus,True,TS did not pass all checks,autotst,qchem,7422
+rxn_443,Zeus,False,Could not determine likely TS conformer,,qchem,31817
+rxn_119,Zeus,True,,heuristics,qchem,1393
+rxn_548,Zeus,True,,heuristics,qchem,104170
+rxn_917,Zeus,True,,heuristics,qchem,23448
+rxn_1802,Zeus,True,,heuristics,gauss_trsh_cleanup,3287
+rxn_1921,Zeus,True,,heuristics,gauss_trsh_cleanup,9979
+rxn_409,Zeus,True,,heuristics,qchem,18930
+rxn_477,Zeus,False,Could not determine likely TS conformer,,qchem,6927
+rxn_1938,Zeus,True,,heuristics,gauss_trsh_cleanup,28612
+rxn_1951,Zeus,True,,heuristics,gauss_trsh_cleanup,868
+rxn_1894,Zeus,True,,heuristics,gauss_trsh_cleanup,10541
+rxn_1372,Zeus,True,,heuristics,qchem,18950
+rxn_1958,Zeus,True,,heuristics,gauss_trsh_cleanup,13801
+rxn_72,Zeus,True,,heuristics,qchem,268
+rxn_1952,Zeus,True,,heuristics,gauss_trsh_cleanup,1806
+rxn_1095,Zeus,True,,heuristics,qchem,39676
+rxn_759,Zeus,False,Could not determine likely TS conformer,,qchem,5656
+rxn_1622,Zeus,True,,heuristics,main,10891
+rxn_458,Zeus,True,,heuristics,qchem,11744
+rxn_1235,Zeus,True,,heuristics,qchem,5738
+rxn_432,Zeus,True,,autotst,qchem,46774
+rxn_335,Zeus,True,,heuristics,qchem,4258
+rxn_783,Zeus,False,Could not determine likely TS conformer,,qchem,58325
+rxn_1318,Zeus,True,,autotst,qchem,44639
+rxn_1297,Zeus,True,,heuristics,qchem,11921
+rxn_78,Zeus,False,Could not determine likely TS conformer,,qchem,3879
+rxn_1903,Zeus,True,,autotst,gauss_trsh_cleanup,6568
+rxn_1177,Zeus,True,,heuristics,qchem,80794
+rxn_640,Zeus,False,Could not determine likely TS conformer,,qchem,1438
+rxn_1820,Zeus,True,,heuristics,gauss_trsh_cleanup,3408
+rxn_1945,Zeus,True,,heuristics,gauss_trsh_cleanup,5206
+rxn_1447,Zeus,True,,heuristics,qchem,56472
+rxn_285,Zeus,True,,heuristics + autotst,qchem,415
+rxn_1175,Zeus,True,,heuristics,qchem,43744
+rxn_1670,Zeus,True,,heuristics,main,28030
+rxn_1620,Zeus,True,,heuristics,gaussian_unconverge_trsh,28855
+rxn_1862,Zeus,True,,heuristics,gauss_trsh_cleanup,7737
+rxn_1805,Zeus,True,,heuristics,gauss_trsh_cleanup,6666
+rxn_2004,Zeus,True,,heuristics,gauss_conformer_comb,31645
+rxn_1354,Zeus,True,,heuristics,qchem,24929
+rxn_363,Zeus,True,,heuristics,qchem,2990
+rxn_389,Zeus,True,,heuristics,qchem,1709
+rxn_170,Zeus,True,TS did not pass all checks,heuristics,qchem,427
+rxn_35,Zeus,False,Could not determine likely TS conformer,,qchem,14920
+rxn_1495,Zeus,True,,autotst,qchem,64092
+rxn_1624,Zeus,True,,heuristics,gaussian_unconverge_trsh,1811
+rxn_568,Zeus,False,Could not determine likely TS conformer,,qchem,231188
+rxn_1991,Zeus,True,,autotst,gauss_conformer_comb,5020
+rxn_965,Zeus,True,,heuristics,qchem,27395
+rxn_225,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,1420
+rxn_578,Zeus,True,,autotst,qchem,48761
+rxn_1299,Zeus,True,,heuristics,qchem,13290
+rxn_1851,Zeus,True,,heuristics,gauss_trsh_cleanup,7870
+rxn_1593,Zeus,True,,heuristics,gaussian_unconverge_trsh,1935
+rxn_214,Zeus,False,Could not determine likely TS conformer,,qchem,9951
+rxn_843,Zeus,True,,heuristics,qchem,1534
+rxn_711,Zeus,True,,heuristics,qchem,1546
+rxn_1184,Zeus,True,,heuristics,qchem,96275
+rxn_1280,Zeus,True,,heuristics,qchem,7272
+rxn_414,Zeus,True,,heuristics,qchem,12264
+rxn_1103,Zeus,True,,heuristics,qchem,233498
+rxn_181,Zeus,False,Could not determine likely TS conformer,,qchem,16784
+rxn_358,Zeus,False,Could not determine likely TS conformer,,qchem,1929
+rxn_1001,Zeus,True,,heuristics,qchem,14433
+rxn_1,Zeus,True,,heuristics,qchem,16247
+rxn_1506,Zeus,True,,heuristics,qchem,56757
+rxn_1956,Zeus,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,7729
+rxn_1649,Zeus,True,,heuristics,main,5378
+rxn_293,Zeus,False,Could not determine likely TS conformer,,qchem,2214
+rxn_227,Zeus,False,Could not determine likely TS conformer,,qchem,7110
+rxn_730,Zeus,False,Could not determine likely TS conformer,,qchem,110602
+rxn_896,Zeus,True,,heuristics,qchem,5466
+rxn_413,Zeus,True,,heuristics,qchem,11000
+rxn_1151,Zeus,True,,heuristics,qchem,27423
+rxn_121,Zeus,False,Could not determine likely TS conformer,,qchem,30248
+rxn_1839,Zeus,True,,autotst,gauss_trsh_cleanup,17119
+rxn_1327,Zeus,True,,heuristics,qchem,14550
+rxn_1893,Zeus,True,,heuristics,gauss_trsh_cleanup,4634
+rxn_2001,Zeus,True,,heuristics,gauss_conformer_comb,18292
+rxn_202,Zeus,False,Could not determine likely TS conformer,,qchem,1468
+rxn_209,Zeus,True,,heuristics,qchem,1240
+rxn_907,Zeus,True,,heuristics,qchem,5728
+rxn_296,Zeus,True,,heuristics,qchem,10970
+rxn_607,Zeus,True,,heuristics,qchem,119126
+rxn_10,Zeus,True,,heuristics,qchem,30723
+rxn_1984,Zeus,True,,heuristics,gauss_trsh_cleanup,9351
+rxn_1500,Zeus,True,,heuristics,qchem,70229
+rxn_625,Zeus,True,,heuristics,qchem,673
+rxn_634,Zeus,False,Could not determine likely TS conformer,,qchem,1976
+rxn_667,Zeus,True,,heuristics,qchem,299
+rxn_1386,Zeus,True,,heuristics,qchem,7867
+rxn_709,Zeus,True,,heuristics,qchem,1087
+rxn_927,Zeus,True,,heuristics,qchem,7968
+rxn_198,Zeus,False,Could not determine likely TS conformer,,qchem,3672
+rxn_721,Zeus,True,,heuristics,qchem,2148
+rxn_1477,Zeus,True,,autotst,qchem,52593
+rxn_679,Zeus,False,Could not determine likely TS conformer,,qchem,1352
+rxn_1462,Zeus,True,,heuristics,qchem,28672
+rxn_1659,Zeus,False,Could not determine likely TS conformer,,main,55537
+rxn_275,Zeus,True,,autotst,qchem,10899
+rxn_1630,Zeus,True,,heuristics,main,6774
+rxn_801,Zeus,True,,heuristics,qchem,15113
+rxn_1863,Zeus,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,1003
+rxn_161,Zeus,True,TS did not pass all checks,heuristics,qchem,4765
+rxn_196,Zeus,False,Could not determine likely TS conformer,,qchem,3837
+rxn_1803,Zeus,True,,heuristics,gauss_trsh_cleanup,2957
+rxn_1977,Zeus,True,,heuristics,gauss_trsh_cleanup,6705
+rxn_733,Zeus,True,,heuristics,qchem,19230
+rxn_699,Zeus,False,Could not determine likely TS conformer,,qchem,1332
+rxn_1421,Zeus,True,,heuristics,qchem,22143
+rxn_1216,Zeus,True,,heuristics,qchem,5562
+rxn_731,Zeus,True,,autotst,qchem,10653
+rxn_1402,Zeus,True,,heuristics,qchem,17615
+rxn_799,Zeus,True,,autotst,qchem,3955
+rxn_261,Zeus,True,,autotst,qchem,7222
+rxn_1665,Zeus,True,,heuristics,main,3259
+rxn_1930,Zeus,True,,heuristics,gauss_trsh_cleanup,9527
+rxn_936,Zeus,True,,heuristics,qchem,16445
+rxn_899,Zeus,True,,heuristics,qchem,6099
+rxn_1861,Zeus,True,,heuristics,gauss_trsh_cleanup,2752
+rxn_727,Zeus,False,Could not determine likely TS conformer,,qchem,100709
+rxn_1391,Zeus,True,,heuristics,qchem,8511
+rxn_57,Zeus,True,,heuristics,qchem,2255
+rxn_123,Zeus,True,,heuristics,qchem,731
+rxn_1394,Zeus,False,Could not determine likely TS conformer,,qchem,35020
+rxn_889,Zeus,True,,heuristics,qchem,4621
+rxn_105,Zeus,True,,heuristics,qchem,5018
+rxn_1641,Zeus,True,,autotst,main,18452
+rxn_1918,Zeus,True,,heuristics,gauss_trsh_cleanup,6948
+rxn_58,Zeus,False,Could not determine likely TS conformer,,qchem,18340
+rxn_311,Zeus,False,Could not determine likely TS conformer,,qchem,1635
+rxn_1910,Zeus,True,,heuristics,gauss_trsh_cleanup,8537
+rxn_1982,Zeus,True,,autotst,gauss_trsh_cleanup,28387
+rxn_714,Zeus,False,Could not determine likely TS conformer,,qchem,3046
+rxn_764,Zeus,False,Could not determine likely TS conformer,,qchem,2041
+rxn_708,Zeus,False,Could not determine likely TS conformer,,qchem,6050
+rxn_1942,Zeus,True,,heuristics,gauss_trsh_cleanup,11575
+rxn_253,Zeus,True,,heuristics,qchem,2008
+rxn_659,Zeus,True,,heuristics,qchem,5661
+rxn_276,Zeus,True,TS did not pass all checks,autotst,qchem,26967
+rxn_1237,Zeus,True,,heuristics,qchem,8252
+rxn_1453,Zeus,True,,heuristics,qchem,27047
+rxn_334,Zeus,True,,autotst,qchem,6413
+rxn_467,Zeus,True,,heuristics,qchem,974
+rxn_746,Zeus,True,,heuristics,qchem,190442
+rxn_1811,Zeus,True,,heuristics,gauss_trsh_cleanup,8584
+rxn_680,Zeus,True,,heuristics,qchem,1046
+rxn_776,Zeus,True,TS did not pass all checks,heuristics,qchem,9027
+rxn_1434,Zeus,True,,heuristics,qchem,18113
+rxn_1818,Zeus,True,,heuristics,gauss_trsh_cleanup,19853
+rxn_1594,Zeus,True,,autotst,gaussian_unconverge_trsh,6315
+rxn_916,Zeus,True,,heuristics,qchem,14439
+rxn_1213,Zeus,True,,heuristics,qchem,8896
+rxn_1198,Zeus,True,,heuristics,qchem,29697
+rxn_5,Zeus,True,,heuristics,qchem,26072
+rxn_1352,Zeus,True,,heuristics,qchem,23836
+rxn_1017,Zeus,True,,heuristics,qchem,2981
+rxn_547,Zeus,True,,heuristics,qchem,84619
+rxn_602,Zeus,True,,heuristics,qchem,54196
+rxn_807,Zeus,True,,heuristics,qchem,1069
+rxn_723,Zeus,True,,heuristics,qchem,1716
+rxn_1648,Zeus,True,,heuristics,main,24179
+rxn_705,Zeus,True,,heuristics,qchem,1341
+rxn_1370,Zeus,True,,heuristics,qchem,16149
+rxn_1062,Zeus,True,,heuristics,qchem,7016
+rxn_199,Zeus,False,Could not determine likely TS conformer,,qchem,6778
+rxn_376,Zeus,False,Could not determine likely TS conformer,,qchem,5353
+rxn_490,Zeus,True,,heuristics,qchem,2979
+rxn_494,Zeus,True,,heuristics,qchem,3166
+rxn_1666,Zeus,True,,heuristics,main,21591
+rxn_576,Zeus,True,,heuristics,qchem,42864
+rxn_471,Zeus,False,Could not determine likely TS conformer,,qchem,1195
+rxn_1229,Zeus,True,,heuristics,qchem,35116
+rxn_813,Zeus,False,Could not determine likely TS conformer,,qchem,3310
+rxn_343,Zeus,False,Could not determine likely TS conformer,,qchem,6667
+rxn_125,Zeus,True,,heuristics,qchem,1392
+rxn_895,Zeus,True,,heuristics,qchem,2816
+rxn_1225,Zeus,True,,heuristics,qchem,11105
+rxn_658,Zeus,False,Could not determine likely TS conformer,,qchem,2283
+rxn_258,Zeus,True,,heuristics,qchem,8170
+rxn_816,Zeus,True,,heuristics,qchem,6148
+rxn_1055,Zeus,True,,heuristics,qchem,8872
+rxn_654,Zeus,True,,heuristics,qchem,583
+rxn_1025,Zeus,True,,heuristics,qchem,15337
+rxn_338,Zeus,False,Could not determine likely TS conformer,,qchem,41510
+rxn_1501,Zeus,True,,heuristics,qchem,86544
+rxn_706,Zeus,True,,heuristics,qchem,357
+rxn_1454,Zeus,True,,heuristics,qchem,49704
+rxn_103,Zeus,True,,heuristics,qchem,5277
+rxn_254,Zeus,True,,heuristics,qchem,8723
+rxn_365,Zeus,True,,heuristics,qchem,1915
+rxn_310,Zeus,True,,autotst,qchem,3698
+rxn_702,Zeus,True,,autotst,qchem,3027
+rxn_663,Zeus,False,Could not determine likely TS conformer,,qchem,2528
+rxn_1962,Zeus,True,,heuristics,gauss_trsh_cleanup,4106
+rxn_1859,Zeus,True,,heuristics,gauss_trsh_cleanup,2324
+rxn_1174,Zeus,False,Could not determine likely TS conformer,,qchem,94304
+rxn_59,Zeus,True,,heuristics,qchem,968
+rxn_1476,Zeus,True,,heuristics,qchem,52945
+rxn_1188,Zeus,True,,heuristics,qchem,37644
+rxn_1226,Zeus,False,Could not determine likely TS conformer,,qchem,14033
+rxn_1664,Zeus,True,,heuristics,main,20916
+rxn_175,Zeus,True,,heuristics,qchem,7810
+rxn_6,Zeus,False,Could not determine likely TS conformer,,qchem,42700
+rxn_1901,Zeus,True,,heuristics,gauss_trsh_cleanup,2887
+rxn_146,Zeus,True,,heuristics,qchem,495
+rxn_260,Zeus,True,,heuristics,qchem,6830
+rxn_437,Zeus,True,,heuristics,qchem,2755
+rxn_1047,Zeus,True,,heuristics,qchem,14186
+rxn_864,Zeus,True,,heuristics,qchem,1568
+rxn_1431,Zeus,True,,heuristics,qchem,34563
+rxn_1283,Zeus,True,,heuristics,qchem,12333
+rxn_1451,Zeus,True,,heuristics,qchem,41626
+rxn_1683,Zeus,True,,heuristics,heurist_impr,108244
+rxn_1833,Zeus,True,,heuristics,gauss_trsh_cleanup,2004
+rxn_480,Zeus,True,,heuristics,qchem,4420
+rxn_1966,Zeus,True,,heuristics,gauss_trsh_cleanup,19480
+rxn_1881,Zeus,True,,heuristics,gauss_trsh_cleanup,1447
+rxn_1829,Zeus,True,,heuristics,gauss_trsh_cleanup,18764
+rxn_672,Zeus,True,,heuristics,qchem,773
+rxn_1523,Zeus,True,,heuristics,qchem,49066
+rxn_784,Zeus,False,Could not determine likely TS conformer,,qchem,8237
+rxn_1173,Zeus,False,Could not determine likely TS conformer,,qchem,117695
+rxn_274,Zeus,False,Could not determine likely TS conformer,,qchem,162943
+rxn_797,Zeus,True,,heuristics,qchem,12117
+rxn_1136,Zeus,True,,heuristics,qchem,19040
+rxn_1367,Zeus,True,,heuristics,qchem,7436
+rxn_45,Zeus,False,Could not determine likely TS conformer,,qchem,30560
+rxn_748,Zeus,True,,autotst,qchem,128879
+rxn_782,Zeus,False,Could not determine likely TS conformer,,qchem,33785
+rxn_1882,Zeus,True,,heuristics,gauss_trsh_cleanup,2450
+rxn_1643,Zeus,False,Could not determine likely TS conformer,,main,17267
+rxn_1353,Zeus,True,,heuristics,qchem,20369
+rxn_107,Zeus,True,,heuristics,qchem,814
+rxn_1876,Zeus,True,,heuristics,gauss_trsh_cleanup,8977
+rxn_1614,Zeus,True,,heuristics,gaussian_unconverge_trsh,3335
+rxn_2015,Zeus,True,,heuristics,heurist_impr,35185
+rxn_1512,Zeus,True,,heuristics,qchem,55957
+rxn_486,Zeus,True,,heuristics,qchem,18947
+rxn_1145,Zeus,False,Could not determine likely TS conformer,,qchem,16216
+rxn_9,Zeus,False,Could not determine likely TS conformer,,qchem,19594
+rxn_2014,Zeus,False,Could not determine likely TS conformer,,heurist_impr,9156
+rxn_91,Zeus,True,,heuristics,qchem,1329
+rxn_1414,Zeus,True,,heuristics,qchem,19876
+rxn_2000,Zeus,False,Could not determine likely TS conformer,,gauss_conformer_comb,29175
+rxn_189,Zeus,True,,heuristics,qchem,5259
+rxn_1304,Zeus,True,,heuristics,qchem,17358
+rxn_1233,Zeus,True,,heuristics,qchem,13663
+rxn_1182,Zeus,True,,heuristics,qchem,84830
+rxn_760,Zeus,True,,heuristics,qchem,2642
+rxn_841,Zeus,True,,heuristics,qchem,20421
+rxn_394,Zeus,False,Could not determine likely TS conformer,,qchem,6303
+rxn_1070,Zeus,True,,heuristics,qchem,9780
+rxn_859,Zeus,True,,heuristics,qchem,3131
+rxn_908,Zeus,True,,heuristics,qchem,4169
+rxn_1808,Zeus,True,,heuristics,gauss_trsh_cleanup,117067
+rxn_1655,Zeus,True,,heuristics,main,21378
+rxn_217,Zeus,False,Could not determine likely TS conformer,,qchem,1799
+rxn_1879,Zeus,True,,heuristics,gauss_trsh_cleanup,24120
+rxn_273,Zeus,False,Could not determine likely TS conformer,,qchem,160841
+rxn_1985,Zeus,True,,autotst,gauss_trsh_cleanup,12140
+rxn_1848,Zeus,True,,autotst,gauss_trsh_cleanup,4451
+rxn_1088,Zeus,True,,heuristics,qchem,25530
+rxn_215,Zeus,True,,heuristics,qchem,1155
+rxn_717,Zeus,False,Could not determine likely TS conformer,,qchem,3360
+rxn_577,Zeus,True,,autotst,qchem,35508
+rxn_631,Zeus,False,Could not determine likely TS conformer,,qchem,511
+rxn_798,Zeus,True,,autotst,qchem,23970
+rxn_552,Zeus,True,,heuristics,qchem,77687
+rxn_1855,Zeus,True,,heuristics,gauss_trsh_cleanup,20480
+rxn_380,Zeus,True,,autotst,qchem,1457
+rxn_1247,Zeus,True,,heuristics,qchem,14739
+rxn_1083,Zeus,True,,heuristics,qchem,17408
+rxn_2025,Zeus,True,,heuristics,heurist_impr,11701
+rxn_1008,Zeus,True,,heuristics,qchem,10185
+rxn_983,Zeus,True,,heuristics,qchem,20991
+rxn_1215,Zeus,True,,heuristics,qchem,6226
+rxn_186,Zeus,False,Could not determine likely TS conformer,,qchem,1726
+rxn_185,Zeus,True,,heuristics,qchem,7409
+rxn_439,Zeus,True,,heuristics,qchem,1202
+rxn_41,Zeus,True,,heuristics,qchem,11441
+rxn_1186,Zeus,False,Could not determine likely TS conformer,,qchem,50165
+rxn_269,Zeus,True,,heuristics,qchem,9023
+rxn_134,Zeus,False,Could not determine likely TS conformer,,qchem,3321
+rxn_113,Zeus,True,,heuristics,qchem,695
+rxn_1954,Zeus,True,,heuristics,gauss_trsh_cleanup,2735
+rxn_935,Zeus,True,,heuristics,qchem,47580
+rxn_1376,Zeus,True,,heuristics,qchem,15100
+rxn_928,Zeus,True,,heuristics,qchem,15288
+rxn_36,Zeus,True,,heuristics,qchem,8117
+rxn_995,Zeus,False,Could not determine likely TS conformer,,qchem,13621
+rxn_349,Zeus,False,Could not determine likely TS conformer,,qchem,1482
+rxn_1813,Zeus,True,,heuristics,gauss_trsh_cleanup,4339
+rxn_1333,Zeus,True,,heuristics,qchem,29127
+rxn_308,Zeus,False,Could not determine likely TS conformer,,qchem,9272
+rxn_1277,Zeus,False,Could not determine likely TS conformer,,qchem,35941
+rxn_183,Zeus,True,,heuristics,qchem,20140
+rxn_565,Zeus,True,,heuristics,qchem,44255
+rxn_53,Zeus,True,,heuristics,qchem,2427
+rxn_1849,Zeus,True,,heuristics,gauss_trsh_cleanup,2658
+rxn_778,Zeus,True,,heuristics,qchem,1993
+rxn_1455,Zeus,True,,heuristics,qchem,12893
+rxn_194,Zeus,True,,autotst,qchem,2312
+rxn_1054,Zeus,True,,heuristics,qchem,6078
+rxn_149,Zeus,True,TS did not pass all checks,heuristics,qchem,8714
+rxn_1946,Zeus,True,,heuristics,gauss_trsh_cleanup,6616
+rxn_1907,Zeus,True,,heuristics,gauss_trsh_cleanup,2005
+rxn_223,Zeus,True,,heuristics,qchem,1327
+rxn_1081,Zeus,False,Could not determine likely TS conformer,,qchem,13786
+rxn_911,Zeus,True,,heuristics,qchem,3083
+rxn_1936,Zeus,True,,heuristics,gauss_trsh_cleanup,8030
+rxn_1401,Zeus,True,,heuristics,qchem,24706
+rxn_1941,Zeus,True,,heuristics,gauss_trsh_cleanup,4574
+rxn_1931,Zeus,True,,heuristics,gauss_trsh_cleanup,5930
+rxn_729,Zeus,False,Could not determine likely TS conformer,,qchem,296302
+rxn_1950,Zeus,True,,heuristics,gauss_trsh_cleanup,3499
+rxn_1883,Zeus,True,,heuristics,gauss_trsh_cleanup,10967
+rxn_1486,Zeus,True,,heuristics,qchem,76717
+rxn_924,Zeus,True,,autotst,qchem,37439
+rxn_1598,Zeus,True,,heuristics,gaussian_unconverge_trsh,2231
+rxn_1804,Zeus,True,,heuristics,gauss_trsh_cleanup,5799
+rxn_1057,Zeus,False,Could not determine likely TS conformer,,qchem,29602
+rxn_56,Zeus,True,,heuristics,qchem,1275
+rxn_719,Zeus,False,Could not determine likely TS conformer,,qchem,1892
+rxn_128,Zeus,True,,heuristics,qchem,1536
+rxn_561,Zeus,True,,heuristics,qchem,62185
+rxn_1245,Zeus,True,,heuristics,qchem,10632
+rxn_673,Zeus,True,TS did not pass all checks,autotst,qchem,1083
+rxn_62,Zeus,True,,heuristics,qchem,693
+rxn_1589,Zeus,True,,heuristics,gaussian_unconverge_trsh,7510
+rxn_430,Zeus,False,Could not determine likely TS conformer,,qchem,24939
+rxn_1957,Zeus,True,,heuristics,gauss_trsh_cleanup,5108
+rxn_1499,Zeus,True,,autotst,qchem,57364
+rxn_1617,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,22213
+rxn_1319,Zeus,True,,heuristics,qchem,73581
+rxn_80,Zeus,True,,heuristics,qchem,1113
+rxn_151,Zeus,True,TS did not pass all checks,heuristics,qchem,807
+rxn_1181,Zeus,True,,heuristics,qchem,69132
+rxn_1341,Zeus,True,,heuristics,qchem,34926
+rxn_1059,Zeus,True,,heuristics,qchem,6079
+rxn_1821,Zeus,True,,heuristics,gauss_trsh_cleanup,4880
+rxn_1825,Zeus,True,,heuristics,gauss_trsh_cleanup,9173
+rxn_1255,Zeus,True,,heuristics,qchem,5895
+rxn_1170,Zeus,True,,heuristics,qchem,8329
+rxn_616,Zeus,True,,heuristics,qchem,70149
+rxn_595,Zeus,True,,autotst,qchem,71785
+rxn_833,Zeus,True,,heuristics,qchem,6645
+rxn_1836,Zeus,True,,heuristics,gauss_trsh_cleanup,1997
+rxn_713,Zeus,False,Could not determine likely TS conformer,,qchem,1292
+rxn_1194,Zeus,True,,heuristics,qchem,39024
+rxn_406,Zeus,True,,heuristics,qchem,12170
+rxn_348,Zeus,True,,heuristics,qchem,2352
+rxn_1555,Zeus,True,,heuristics,zeus_run,46181
+rxn_1588,Zeus,True,,heuristics,gaussian_unconverge_trsh,5010
+rxn_1209,Zeus,True,,heuristics,qchem,34569
+rxn_1819,Zeus,True,,heuristics,gauss_trsh_cleanup,5534
+rxn_1464,Zeus,True,,heuristics,qchem,17964
+rxn_1282,Zeus,True,,heuristics,qchem,5032
+rxn_858,Zeus,True,,heuristics,qchem,4184
+rxn_913,Zeus,False,Could not determine likely TS conformer,,qchem,12183
+rxn_698,Zeus,True,,heuristics,qchem,818
+rxn_661,Zeus,False,Could not determine likely TS conformer,,qchem,969
+rxn_1430,Zeus,True,,heuristics,qchem,25293
+rxn_1650,Zeus,False,Could not determine likely TS conformer,,main,26190
+rxn_905,Zeus,True,,heuristics,qchem,2900
+rxn_1243,Zeus,True,,heuristics,qchem,6875
+rxn_1187,Zeus,True,,heuristics,qchem,61212
+rxn_1015,Zeus,True,,heuristics,qchem,11537
+rxn_734,Zeus,False,Could not determine likely TS conformer,,qchem,176382
+rxn_306,Zeus,False,Could not determine likely TS conformer,,qchem,2628
+rxn_626,Zeus,False,Could not determine likely TS conformer,,qchem,2977
+rxn_191,Zeus,True,,autotst,qchem,1256
+rxn_697,Zeus,True,,heuristics,qchem,476
+rxn_424,Zeus,True,,heuristics,qchem,85127
+rxn_1627,Zeus,True,,heuristics,gaussian_unconverge_trsh,5296
+rxn_638,Zeus,False,Could not determine likely TS conformer,,qchem,960
+rxn_1823,Zeus,True,,heuristics,gauss_trsh_cleanup,6355
+rxn_1377,Zeus,True,,heuristics,qchem,9586
+rxn_1158,Zeus,True,,heuristics,qchem,14640
+rxn_180,Zeus,True,,heuristics,qchem,10152
+rxn_1446,Zeus,True,,heuristics,qchem,39673
+rxn_226,Zeus,False,Could not determine likely TS conformer,,qchem,4228
+rxn_1647,Zeus,True,,heuristics,main,2247
+rxn_2016,Zeus,False,Could not determine likely TS conformer,,heurist_impr,25886
+rxn_1490,Zeus,True,,heuristics,qchem,72286
+rxn_479,Zeus,False,Could not determine likely TS conformer,,qchem,1710
+rxn_599,Zeus,True,,autotst,qchem,76212
+rxn_2010,Zeus,True,,autotst,gauss_trsh_cleanup,43868
+rxn_1416,Zeus,True,,heuristics,qchem,24321
+rxn_964,Zeus,True,,heuristics,qchem,13203
+rxn_298,Zeus,True,,heuristics,qchem,5863
+rxn_1857,Zeus,True,,heuristics,heurist_impr,27157
+rxn_1258,Zeus,True,,heuristics,qchem,3598
+rxn_1130,Zeus,False,Could not determine likely TS conformer,,qchem,26336
+rxn_101,Zeus,True,,heuristics,qchem,3076
+rxn_885,Zeus,True,,heuristics,qchem,6395
+rxn_646,Zeus,False,Could not determine likely TS conformer,,qchem,1373
+rxn_600,Zeus,True,,heuristics,qchem,52789
+rxn_1360,Zeus,True,,heuristics,qchem,40023
+rxn_1997,Zeus,True,,heuristics,gauss_conformer_comb,17778
+rxn_106,Zeus,True,,heuristics,qchem,6407
+rxn_1106,Zeus,True,,heuristics,qchem,11409
+rxn_1895,Zeus,True,,heuristics,gauss_trsh_cleanup,6716
+rxn_1525,Zeus,True,,heuristics,qchem,77683
+rxn_222,Zeus,False,Could not determine likely TS conformer,,qchem,3159
+rxn_1603,Zeus,True,,heuristics,gaussian_unconverge_trsh,2634
+rxn_926,Zeus,True,,heuristics,qchem,6420
+rxn_649,Zeus,True,,heuristics,qchem,1232
+rxn_1380,Zeus,True,,heuristics,qchem,10601
+rxn_695,Zeus,True,,heuristics,qchem,999
+rxn_1860,Zeus,True,,heuristics,gauss_trsh_cleanup,1588
+rxn_1078,Zeus,True,,heuristics,qchem,9595
+rxn_386,Zeus,True,,autotst,qchem,2125
+rxn_403,Zeus,False,Could not determine likely TS conformer,,qchem,7650
+rxn_1826,Zeus,True,,heuristics,gauss_trsh_cleanup,7025
+rxn_1195,Zeus,True,,heuristics,qchem,36656
+rxn_825,Zeus,True,,heuristics,qchem,2676
+rxn_1214,Zeus,True,,heuristics,qchem,5585
+rxn_211,Zeus,False,Could not determine likely TS conformer,,qchem,1311
+rxn_1806,Zeus,True,,heuristics,gauss_trsh_cleanup,3291
+rxn_94,Zeus,True,,heuristics,qchem,3507
+rxn_2022,Zeus,True,,heuristics,heurist_impr,18612
+rxn_1320,Zeus,True,,heuristics,qchem,46100
+rxn_140,Zeus,False,Could not determine likely TS conformer,,qchem,887
+rxn_707,Zeus,False,Could not determine likely TS conformer,,qchem,1025
+rxn_463,Zeus,True,,heuristics,qchem,8817
+rxn_1176,Zeus,True,,heuristics,qchem,51016
+rxn_1979,Zeus,True,,heuristics,gauss_trsh_cleanup,2565
+rxn_387,Zeus,True,,heuristics,qchem,1068
+rxn_1126,Zeus,True,,heuristics,qchem,21842
+rxn_1845,Zeus,True,,heuristics,gauss_trsh_cleanup,3819
+rxn_2007,Zeus,True,,heuristics,gauss_trsh_cleanup,102806
+rxn_1254,Zeus,True,,heuristics,qchem,3659
+rxn_915,Zeus,True,,heuristics,qchem,15070
+rxn_647,Zeus,False,Could not determine likely TS conformer,,qchem,5702
+rxn_126,Zeus,True,,heuristics,qchem,1025
+rxn_868,Zeus,True,,heuristics,qchem,2490
+rxn_248,Zeus,True,,heuristics,qchem,2289
+rxn_1324,Zeus,True,,heuristics,qchem,19267
+rxn_87,Zeus,False,Could not determine likely TS conformer,,qchem,2061
+rxn_751,Zeus,True,,heuristics,qchem,4658
+rxn_327,Zeus,True,,heuristics,qchem,1215
+rxn_635,Zeus,True,,heuristics,qchem,258
+rxn_88,Zeus,False,Could not determine likely TS conformer,,qchem,1087
+rxn_553,Zeus,True,,heuristics,qchem,73839
+rxn_1257,Zeus,True,,heuristics,qchem,11921
+rxn_696,Zeus,False,Could not determine likely TS conformer,,qchem,421
+rxn_1005,Zeus,True,,heuristics,qchem,5078
+rxn_1104,Zeus,True,,heuristics,qchem,8395
+rxn_1927,Zeus,True,,heuristics,gauss_trsh_cleanup,10733
+rxn_1547,Zeus,True,,heuristics,zeus_run,69452
+rxn_750,Zeus,False,Could not determine likely TS conformer,,qchem,4705
+rxn_725,Zeus,False,Could not determine likely TS conformer,,qchem,127652
+rxn_1403,Zeus,True,,heuristics,qchem,44562
+rxn_114,Zeus,True,,heuristics,qchem,2578
+rxn_1995,Zeus,True,,heuristics,gauss_conformer_comb,10771
+rxn_210,Zeus,True,,autotst,qchem,1698
+rxn_1412,Zeus,True,,heuristics,qchem,20452
+rxn_877,Zeus,True,,heuristics,qchem,5767
+rxn_1623,Zeus,True,,heuristics,gaussian_unconverge_trsh,2857
+rxn_703,Zeus,False,Could not determine likely TS conformer,,qchem,10679
+rxn_297,Zeus,True,,heuristics,qchem,8686
+rxn_184,Zeus,True,,heuristics,qchem,18084
+rxn_159,Zeus,False,Could not determine likely TS conformer,,qchem,2153
+rxn_674,Zeus,False,Could not determine likely TS conformer,,qchem,6251
+rxn_400,Zeus,True,,heuristics,qchem,5771
+rxn_1183,Zeus,True,,heuristics,qchem,86840
+rxn_1052,Zeus,True,,heuristics,qchem,40100
+rxn_1323,Zeus,True,,heuristics,qchem,22419
+rxn_569,Zeus,True,,heuristics,qchem,55186
+rxn_934,Zeus,True,,heuristics,qchem,29523
+rxn_96,Zeus,True,,heuristics,qchem,2830
+rxn_1800,Zeus,True,,heuristics,gauss_trsh_cleanup,1995
+rxn_1390,Zeus,False,Could not determine likely TS conformer,,qchem,39434
+rxn_466,Zeus,True,,heuristics,qchem,4448
+rxn_557,Zeus,True,,heuristics,qchem,89106
+rxn_1616,Zeus,True,,heuristics,gaussian_unconverge_trsh,11153
+rxn_426,Zeus,True,,heuristics,qchem,5250
+rxn_838,Zeus,True,,heuristics,qchem,4501
+rxn_34,Zeus,True,,autotst,qchem,25469
+rxn_1144,Zeus,True,,heuristics,qchem,10020
+rxn_355,Zeus,False,Could not determine likely TS conformer,,qchem,12416
+rxn_2006,Zeus,True,,heuristics,gauss_trsh_cleanup,21699
+rxn_704,Zeus,True,,heuristics,qchem,1351
+rxn_332,Zeus,True,,heuristics,qchem,2221
+rxn_112,Zeus,True,,autotst,qchem,2769
+rxn_256,Zeus,True,,autotst,qchem,2613
+rxn_1389,Zeus,True,,autotst,qchem,16089
+rxn_692,Zeus,False,Could not determine likely TS conformer,,qchem,5774
+rxn_1597,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,25422
+rxn_1122,Zeus,True,,autotst,qchem,22871
+rxn_1375,Zeus,True,,heuristics,qchem,10935
+rxn_1228,Zeus,True,,autotst,qchem,31265
+rxn_1822,Zeus,True,,heuristics,gauss_trsh_cleanup,9191
+rxn_892,Zeus,True,,heuristics,qchem,6702
+rxn_901,Zeus,True,,heuristics,qchem,10935
+rxn_865,Zeus,True,,heuristics,qchem,1698
+rxn_999,Zeus,True,,heuristics,qchem,8985
+rxn_195,Zeus,False,Could not determine likely TS conformer,,qchem,7202
+rxn_182,Zeus,True,,autotst,qchem,5954
+rxn_1143,Zeus,True,,heuristics,qchem,16770
+rxn_1322,Zeus,True,,heuristics,qchem,21051
+rxn_1606,Zeus,True,,heuristics,main,7388
+rxn_239,Zeus,True,,heuristics,qchem,2964
+rxn_240,Zeus,True,,heuristics,qchem,2401
+rxn_361,Zeus,True,,heuristics,qchem,1775
+rxn_1231,Zeus,True,,heuristics,qchem,6344
+rxn_14,Zeus,False,Memory Error,,qchem,
+rxn_1060,Zeus,True,,heuristics,qchem,7901
+rxn_1326,Zeus,True,,autotst,qchem,32969
+rxn_1935,Zeus,True,,heuristics,gauss_trsh_cleanup,8776
+rxn_758,Zeus,True,,heuristics,qchem,3108
+rxn_1908,Zeus,True,,heuristics,gauss_trsh_cleanup,4909
+rxn_377,Zeus,True,,autotst,qchem,4995
+rxn_682,Zeus,True,,heuristics,qchem,360
+rxn_1609,Zeus,True,,heuristics,gaussian_unconverge_trsh,7827
+rxn_221,Zeus,False,Could not determine likely TS conformer,,qchem,1427
+rxn_1587,Zeus,True,,heuristics,gaussian_unconverge_trsh,1453
+rxn_549,Zeus,True,,heuristics,qchem,141705
+rxn_938,Zeus,True,,heuristics,qchem,11517
+rxn_686,Zeus,True,,heuristics,qchem,1274
+rxn_50,Zeus,True,,heuristics,qchem,3755
+rxn_1795,Zeus,True,,heuristics,gauss_trsh_cleanup,12802
+rxn_47,Zeus,False,Could not determine likely TS conformer,,qchem,111559
+rxn_307,Zeus,False,Could not determine likely TS conformer,,qchem,3084
+rxn_341,Zeus,False,Could not determine likely TS conformer,,qchem,10581
+rxn_810,Zeus,False,Could not determine likely TS conformer,,qchem,2479
+rxn_785,Zeus,True,,heuristics,qchem,995
+rxn_677,Zeus,False,Could not determine likely TS conformer,,qchem,784
+rxn_1963,Zeus,True,,heuristics,gauss_trsh_cleanup,8334
+rxn_886,Zeus,True,,heuristics,qchem,14727
+rxn_317,Zeus,True,,heuristics,qchem,5009
+rxn_971,Zeus,False,Could not determine likely TS conformer,,qchem,281125
+rxn_1653,Zeus,True,,heuristics,main,12416
+rxn_1249,Zeus,True,,heuristics,qchem,9686
+rxn_1891,Zeus,True,,heuristics,gauss_trsh_cleanup,10392
+rxn_1224,Zeus,True,,autotst,qchem,19390
+rxn_852,Zeus,True,,heuristics,qchem,12600
+rxn_880,Zeus,True,,heuristics,qchem,26938
+rxn_559,Zeus,False,Could not determine likely TS conformer,,qchem,118533
+rxn_48,Zeus,False,Could not determine likely TS conformer,,qchem,78091
+rxn_1865,Zeus,True,,heuristics,gauss_trsh_cleanup,3257
+rxn_962,Zeus,True,,heuristics,qchem,23448
+rxn_263,Zeus,True,,autotst,qchem,8024
+rxn_1361,Zeus,True,,heuristics,qchem,45003
+rxn_1960,Zeus,True,,heuristics,gauss_trsh_cleanup,17120
+rxn_44,Zeus,False,Could not determine likely TS conformer,,qchem,30696
+rxn_956,Zeus,False,Could not determine likely TS conformer,,qchem,29790
+rxn_130,Zeus,False,Could not determine likely TS conformer,,qchem,923
+rxn_429,Zeus,True,,heuristics,qchem,7516
+rxn_204,Zeus,False,Could not determine likely TS conformer,,qchem,1683
+rxn_1082,Zeus,True,,heuristics,qchem,7016
+rxn_1116,Zeus,True,,heuristics,qchem,11953
+rxn_102,Zeus,True,,heuristics,qchem,2679
+rxn_1018,Zeus,True,,heuristics,qchem,5143
+rxn_740,Zeus,True,,heuristics,qchem,43744
+rxn_465,Zeus,True,,heuristics,qchem,2188
+rxn_244,Zeus,False,Could not determine likely TS conformer,,qchem,12543
+rxn_1395,Zeus,True,,heuristics,qchem,22094
+rxn_70,Zeus,True,,heuristics,qchem,299
+rxn_1325,Zeus,True,,heuristics,qchem,25529
+rxn_1219,Zeus,True,,heuristics,qchem,18830
+rxn_724,Zeus,True,,heuristics,qchem,905
+rxn_873,Zeus,True,,heuristics,qchem,22474
+rxn_1069,Zeus,True,,heuristics,qchem,15979
+rxn_2026,Zeus,True,,heuristics,heurist_impr,27881
+rxn_405,Zeus,False,Could not determine likely TS conformer,,qchem,5907
+rxn_2021,Zeus,True,,heuristics,heurist_impr,8502
+rxn_68,Zeus,True,,heuristics,qchem,557
+rxn_749,Zeus,False,Could not determine likely TS conformer,,qchem,11055
+rxn_440,Zeus,True,,heuristics,qchem,4253
+rxn_1346,Zeus,True,,heuristics,qchem,7003
+rxn_399,Zeus,True,,heuristics,qchem,37906
+rxn_2011,Zeus,True,,heuristics,heurist_impr,37263
+rxn_42,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,7977
+rxn_352,Zeus,False,Could not determine likely TS conformer,,qchem,4614
+rxn_39,Zeus,False,Could not determine likely TS conformer,,qchem,3509
+rxn_1439,Zeus,True,,heuristics,qchem,33238
+rxn_1274,Zeus,True,,heuristics,qchem,9217
+rxn_1419,Zeus,True,,heuristics,qchem,21716
+rxn_722,Zeus,True,,heuristics,qchem,870
+rxn_1940,Zeus,True,,heuristics,gauss_trsh_cleanup,8764
+rxn_671,Zeus,True,,heuristics,qchem,974
+rxn_401,Zeus,False,Could not determine likely TS conformer,,qchem,36459
+rxn_1834,Zeus,True,,heuristics,gauss_trsh_cleanup,2989
+rxn_641,Zeus,False,Could not determine likely TS conformer,,qchem,503
+rxn_1242,Zeus,True,,heuristics,qchem,5170
+rxn_693,Zeus,True,,heuristics,qchem,1471
+rxn_1406,Zeus,False,Could not determine likely TS conformer,,qchem,26452
+rxn_434,Zeus,False,Could not determine likely TS conformer,,qchem,3847
+rxn_111,Zeus,True,,heuristics,qchem,3684
+rxn_777,Zeus,False,Could not determine likely TS conformer,,qchem,4763
+rxn_453,Zeus,True,,heuristics,qchem,27340
+rxn_1809,Zeus,True,,heuristics,gauss_trsh_cleanup,3905
+rxn_117,Zeus,True,,heuristics,qchem,1529
+rxn_485,Zeus,True,,heuristics,qchem,26825
+rxn_632,Zeus,False,Could not determine likely TS conformer,,qchem,796
+rxn_232,Zeus,True,,heuristics,qchem,1415
+rxn_2020,Zeus,True,,heuristics,heurist_impr,26502
+rxn_1287,Zeus,True,,heuristics,qchem,8477
+rxn_160,Zeus,False,Could not determine likely TS conformer,,qchem,3426
+rxn_1798,Zeus,True,,heuristics,gauss_trsh_cleanup,2652
+rxn_108,Zeus,True,,heuristics,qchem,1983
+rxn_384,Zeus,False,Could not determine likely TS conformer,,qchem,1725
+rxn_621,Zeus,False,Could not determine likely TS conformer,,qchem,325
+rxn_710,Zeus,True,,heuristics,qchem,568
+rxn_51,Zeus,True,,heuristics,qchem,2809
+rxn_147,Zeus,True,TS did not pass all checks,heuristics,qchem,6427
+rxn_555,Zeus,True,,heuristics,qchem,65492
+rxn_1149,Zeus,True,,heuristics,qchem,15227
+rxn_1350,Zeus,False,Could not determine likely TS conformer,,qchem,13069
+rxn_1420,Zeus,True,,heuristics,qchem,27812
+rxn_657,Zeus,False,Could not determine likely TS conformer,,qchem,1773
+rxn_900,Zeus,True,,autotst,qchem,11158
+rxn_1000,Zeus,True,,heuristics,qchem,6809
+rxn_960,Zeus,True,,heuristics,qchem,23779
+rxn_551,Zeus,True,,heuristics,qchem,56458
+rxn_1067,Zeus,True,,heuristics,qchem,8267
+rxn_1397,Zeus,True,,heuristics,qchem,24516
+rxn_950,Zeus,True,,heuristics,qchem,5773
+rxn_1308,Zeus,True,,heuristics,qchem,26058
+rxn_145,Zeus,False,Could not determine likely TS conformer,,qchem,658
+rxn_1978,Zeus,True,,heuristics,gauss_trsh_cleanup,9260
+rxn_1201,Zeus,True,,heuristics,qchem,42758
+rxn_1852,Zeus,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,4461
+rxn_391,Zeus,True,,heuristics,qchem,12162
+rxn_1030,Zeus,True,,heuristics,qchem,4507
+rxn_770,Zeus,True,,heuristics,qchem,935
+rxn_321,Zeus,True,,heuristics,qchem,1130
+rxn_906,Zeus,True,,heuristics,qchem,3699
+rxn_1279,Zeus,True,,heuristics,qchem,5746
+rxn_1793,Zeus,True,,heuristics,gauss_trsh_cleanup,4188
+rxn_190,Zeus,False,Could not determine likely TS conformer,,qchem,2044
+rxn_1404,Zeus,True,,heuristics,qchem,106013
+rxn_1916,Zeus,True,,heuristics,gauss_trsh_cleanup,27254
+rxn_61,Zeus,True,,heuristics,qchem,836
+rxn_744,Zeus,True,,heuristics,qchem,65496
+rxn_1468,Zeus,True,,heuristics,qchem,34735
+rxn_1791,Zeus,True,,heuristics,gauss_trsh_cleanup,3173
+rxn_1156,Zeus,True,,heuristics,qchem,9661
+rxn_1668,Zeus,True,,heuristics,main,2773
+rxn_1920,Zeus,True,,heuristics,gauss_trsh_cleanup,9971
+rxn_757,Zeus,True,,heuristics,qchem,1366
+rxn_1965,Zeus,True,,autotst,gauss_trsh_cleanup,26850
+rxn_1290,Zeus,True,,heuristics,qchem,12425
+rxn_883,Zeus,False,Could not determine likely TS conformer,,qchem,7364
+rxn_871,Zeus,True,,heuristics,qchem,4570
+rxn_16,Zeus,True,,heuristics,qchem,22161
+rxn_1105,Zeus,True,,heuristics,qchem,55939
+rxn_839,Zeus,True,,heuristics,qchem,10421
+rxn_753,Zeus,True,,heuristics,qchem,1579
+rxn_2013,Zeus,True,,heuristics,heurist_impr,24814
+rxn_1003,Zeus,True,,heuristics,qchem,12644
+rxn_550,Zeus,True,,autotst,qchem,80538
+rxn_1217,Zeus,True,,heuristics,qchem,9311
+rxn_572,Zeus,True,,heuristics,qchem,43528
+rxn_213,Zeus,True,,heuristics,qchem,9290
+rxn_1036,Zeus,True,,heuristics,qchem,3163
+rxn_1124,Zeus,True,,heuristics,qchem,17387
+rxn_1027,Zeus,True,,autotst,qchem,25711
+rxn_623,Zeus,True,,heuristics,qchem,357
+rxn_660,Zeus,True,,heuristics,qchem,700
+rxn_1398,Zeus,True,,heuristics,qchem,39173
+rxn_570,Zeus,True,,heuristics,qchem,95138
+rxn_614,Zeus,True,,heuristics,qchem,117346
+rxn_1492,Zeus,True,,heuristics,qchem,116375
+rxn_1485,Zeus,True,,heuristics,qchem,80594
+rxn_116,Zeus,True,,heuristics,qchem,1451
+rxn_1127,Zeus,False,Could not determine likely TS conformer,,qchem,7579
+rxn_1866,Zeus,True,,heuristics,gauss_trsh_cleanup,7645
+rxn_382,Zeus,False,Could not determine likely TS conformer,,qchem,6260
+rxn_1028,Zeus,True,,heuristics,qchem,7925
+rxn_433,Zeus,True,,autotst,qchem,62473
+rxn_1142,Zeus,False,Could not determine likely TS conformer,,qchem,13727
+rxn_1842,Zeus,True,,heuristics,gauss_trsh_cleanup,903
+rxn_299,Zeus,True,,heuristics,qchem,4593
+rxn_2023,Zeus,True,,heuristics,heurist_impr,35790
+rxn_944,Zeus,True,,heuristics,qchem,14123
+rxn_3,Zeus,True,,heuristics,qchem,15375
+rxn_369,Zeus,True,,heuristics,qchem,1053
+rxn_2008,Zeus,True,,heuristics,gauss_trsh_cleanup,10194
+rxn_1815,Zeus,True,,heuristics,gauss_trsh_cleanup,11036
+rxn_282,Zeus,False,Could not determine likely TS conformer,,qchem,4926
+rxn_1789,Zeus,True,,heuristics,gauss_trsh_cleanup,2726
+rxn_154,Zeus,False,Could not determine likely TS conformer,,qchem,10688
+rxn_1140,Zeus,True,,heuristics,qchem,69268
+rxn_74,Zeus,False,Could not determine likely TS conformer,,qchem,1140
+rxn_1797,Zeus,True,,heuristics,gauss_trsh_cleanup,1702
+rxn_1489,Zeus,True,,heuristics,qchem,71728
+rxn_1049,Zeus,True,,heuristics,qchem,12648
+rxn_1331,Zeus,True,,heuristics,qchem,19858
+rxn_390,Zeus,True,,heuristics,qchem,5384
+rxn_43,Zeus,False,Could not determine likely TS conformer,,qchem,14564
+rxn_1301,Zeus,True,,heuristics,qchem,50789
+rxn_712,Zeus,False,Could not determine likely TS conformer,,qchem,776
+rxn_1480,Zeus,True,,heuristics,qchem,32373
+rxn_1590,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,5632
+rxn_1429,Zeus,True,,heuristics,qchem,14982
+rxn_610,Zeus,True,,heuristics,qchem,89730
+rxn_418,Zeus,True,,heuristics,qchem,16793
+rxn_388,Zeus,True,,heuristics,qchem,2262
+rxn_54,Zeus,False,Could not determine likely TS conformer,,qchem,5035
+rxn_1896,Zeus,True,,heuristics,gauss_trsh_cleanup,7145
+rxn_675,Zeus,True,,heuristics,qchem,671
+rxn_1330,Zeus,True,,heuristics,qchem,17590
+rxn_228,Zeus,True,,heuristics,qchem,5324
+rxn_556,Zeus,True,,heuristics,qchem,63654
+rxn_1159,Zeus,True,,heuristics,qchem,19317
+rxn_1864,Zeus,True,,heuristics,gauss_trsh_cleanup,1966
+rxn_230,Zeus,True,"Reactant or Product did not converge, but TS did",autotst,qchem,9190
+rxn_220,Zeus,False,Could not determine likely TS conformer,,qchem,13748
+rxn_996,Zeus,True,,heuristics,qchem,1346
+rxn_139,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,3177
+rxn_1827,Zeus,True,,heuristics,gauss_trsh_cleanup,12517
+rxn_1900,Zeus,True,,heuristics,heurist_impr,47766
+rxn_2012,Zeus,True,,heuristics,heurist_impr,88966
+rxn_1491,Zeus,True,,heuristics,qchem,86148
+rxn_860,Zeus,True,,heuristics,qchem,7488
+rxn_694,Zeus,True,,heuristics,qchem,993
+rxn_425,Zeus,True,,heuristics,qchem,68293
+rxn_1413,Zeus,True,,heuristics,qchem,24094
+rxn_120,Zeus,False,Could not determine likely TS conformer,,qchem,8731
+rxn_2003,Zeus,True,,heuristics,gauss_conformer_comb,17700
+rxn_929,Zeus,True,,heuristics,qchem,19755
+rxn_829,Zeus,False,Could not determine likely TS conformer,,qchem,10839
+rxn_290,Zeus,False,Could not determine likely TS conformer,,qchem,8019
+rxn_566,Zeus,True,,heuristics,qchem,54470
+rxn_1913,Zeus,True,,heuristics,gauss_trsh_cleanup,11325
+rxn_1969,Zeus,True,,heuristics,gauss_trsh_cleanup,11790
+rxn_1157,Zeus,True,,heuristics,qchem,21199
+rxn_966,Zeus,True,,heuristics,qchem,33344
+rxn_1079,Zeus,True,,heuristics,qchem,11155
+rxn_1669,Zeus,True,,heuristics,main,10977
+rxn_1989,Zeus,True,,heuristics,gauss_conformer_comb,2200
+rxn_1086,Zeus,False,Could not determine likely TS conformer,,qchem,65055
+rxn_817,Zeus,False,Could not determine likely TS conformer,,qchem,8274
+rxn_1040,Zeus,True,,heuristics,qchem,6430
+rxn_481,Zeus,True,,heuristics,qchem,12940
+rxn_1999,Zeus,True,,heuristics,gauss_conformer_comb,19657
+rxn_891,Zeus,True,,heuristics,qchem,2614
+rxn_333,Zeus,False,Could not determine likely TS conformer,,qchem,15217
+rxn_174,Zeus,True,,heuristics,qchem,7008
+rxn_342,Zeus,True,TS did not pass all checks,heuristics,qchem,2022
+rxn_1877,Zeus,True,,heuristics,gauss_trsh_cleanup,14371
+rxn_1998,Zeus,True,,heuristics,gauss_conformer_comb,58554
+rxn_1048,Zeus,True,,heuristics,qchem,17696
+rxn_1801,Zeus,True,,heuristics,gauss_trsh_cleanup,1598
+rxn_1875,Zeus,True,,heuristics,gauss_trsh_cleanup,9042
+rxn_1272,Zeus,True,,heuristics,qchem,108340
+rxn_118,Zeus,True,,heuristics,qchem,1517
+rxn_1321,Zeus,False,Could not determine likely TS conformer,,qchem,108001
+rxn_1463,Zeus,True,,heuristics,qchem,22248
+rxn_1411,Zeus,True,,heuristics,qchem,20032
+rxn_787,Zeus,True,,heuristics,qchem,2468
+rxn_312,Zeus,False,Could not determine likely TS conformer,,qchem,2310
+rxn_431,Zeus,False,Could not determine likely TS conformer,,qchem,8463
+rxn_1238,Zeus,True,,heuristics,qchem,5175
+rxn_1591,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,12945
+rxn_1368,Zeus,True,,heuristics,qchem,10982
+rxn_148,Zeus,False,Could not determine likely TS conformer,,qchem,20847
+rxn_1220,Zeus,True,,heuristics,qchem,10419
+rxn_1635,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,14209
+rxn_1309,Zeus,True,,heuristics,qchem,19562
+rxn_1400,Zeus,True,,heuristics,qchem,18976
+rxn_1099,Zeus,True,,heuristics,qchem,270057
+rxn_1599,Zeus,True,,heuristics,gaussian_unconverge_trsh,6991
+rxn_1223,Zeus,True,,autotst,qchem,21740
+rxn_1887,Zeus,True,,heuristics,gauss_trsh_cleanup,6412
+rxn_1511,Zeus,True,,heuristics,qchem,64746
+rxn_206,Zeus,False,Could not determine likely TS conformer,,qchem,6056
+rxn_831,Zeus,True,,heuristics,qchem,4526
+rxn_192,Zeus,True,,heuristics,qchem,2974
+rxn_670,Zeus,True,,heuristics,qchem,806
+rxn_1165,Zeus,True,,autotst,qchem,57434
+rxn_1661,Zeus,True,,heuristics,main,18509
+rxn_909,Zeus,True,,heuristics,qchem,2893
+rxn_848,Zeus,True,,heuristics,qchem,1415
+rxn_1056,Zeus,True,,heuristics,qchem,12620
+rxn_837,Zeus,True,,heuristics,qchem,2705
+rxn_268,Zeus,True,,heuristics,qchem,10021
+rxn_1146,Zeus,True,,heuristics,qchem,29890
+rxn_987,Zeus,True,,autotst,qchem,45234
+rxn_590,Zeus,True,,autotst,qchem,68579
+rxn_1246,Zeus,True,,heuristics,qchem,7701
+rxn_428,Zeus,True,,heuristics,qchem,5986
+rxn_301,Zeus,True,,heuristics,qchem,15577
+rxn_732,Zeus,True,,autotst,qchem,39113
+rxn_1031,Zeus,True,,heuristics,qchem,7633
+rxn_1260,Zeus,True,,heuristics,qchem,11907
+rxn_1799,Zeus,True,,heuristics,gauss_trsh_cleanup,755
+rxn_168,Zeus,True,TS did not pass all checks,heuristics,qchem,5021
+rxn_315,Zeus,True,,heuristics,qchem,2167
+rxn_1610,Zeus,False,Could not determine likely TS conformer,,gaussian_unconverge_trsh,13488
+rxn_2018,Zeus,True,,heuristics,heurist_impr,18703
+rxn_726,Zeus,False,Could not determine likely TS conformer,,qchem,55921
+rxn_982,Zeus,True,,heuristics,qchem,11639
+rxn_77,Zeus,True,,heuristics,qchem,363
+rxn_98,Zeus,True,,heuristics,qchem,5478
+rxn_441,Zeus,False,Could not determine likely TS conformer,,qchem,13708
+rxn_345,Zeus,True,,autotst,qchem,2874
+rxn_1253,Zeus,True,,heuristics,qchem,4715
+rxn_1915,Zeus,True,,heuristics,gauss_trsh_cleanup,32422
+rxn_1240,Zeus,True,,heuristics,qchem,14160
+rxn_266,Zeus,True,TS did not pass all checks,heuristics,qchem,21536
+rxn_1009,Zeus,True,,heuristics,qchem,13167
+rxn_1234,Zeus,True,,autotst,qchem,11535
+rxn_1636,Zeus,True,,heuristics,gaussian_unconverge_trsh,3827
+rxn_326,Zeus,True,,heuristics,qchem,2875
+rxn_270,Zeus,True,,heuristics,qchem,10797
+rxn_622,Zeus,False,Could not determine likely TS conformer,,qchem,670
+rxn_805,Zeus,False,Could not determine likely TS conformer,,qchem,2836
+rxn_1222,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,26393
+rxn_881,Zeus,True,,heuristics,qchem,18026
+rxn_1061,Zeus,True,,heuristics,qchem,12299
+rxn_803,Zeus,False,Could not determine likely TS conformer,,qchem,5546
+rxn_685,Zeus,True,,heuristics,qchem,2521
+rxn_771,Zeus,True,,heuristics,qchem,9147
+rxn_370,Zeus,False,Could not determine likely TS conformer,,qchem,6302
+rxn_571,Zeus,True,,heuristics,qchem,125173
+rxn_1271,Zeus,True,,heuristics,qchem,29380
+rxn_604,Zeus,True,,heuristics,qchem,60218
+rxn_920,Zeus,True,,heuristics,qchem,13397
+rxn_1111,Zeus,True,,heuristics,qchem,21627
+rxn_357,Zeus,True,,autotst,qchem,2755
+rxn_844,Zeus,True,,heuristics,qchem,2316
+rxn_1496,Zeus,True,,heuristics,qchem,61492
+rxn_1262,Zeus,False,Could not determine likely TS conformer,,qchem,22034
+rxn_1190,Zeus,True,,heuristics,qchem,30133
+rxn_1043,Zeus,True,,heuristics,qchem,16708
+rxn_1615,Zeus,True,,heuristics,gaussian_unconverge_trsh,13076
+rxn_1816,Zeus,True,,heuristics,gauss_trsh_cleanup,3747
+rxn_1185,Zeus,True,,heuristics,qchem,131178
+rxn_1364,Zeus,True,,heuristics,qchem,14079
+rxn_890,Zeus,True,,heuristics,qchem,5549
+rxn_779,Zeus,True,,heuristics,qchem,4461
+rxn_1605,Zeus,True,,heuristics,gaussian_unconverge_trsh,5944
+rxn_754,Zeus,True,,heuristics,qchem,2457
+rxn_318,Zeus,True,,heuristics,qchem,847
+rxn_242,Zeus,False,Could not determine likely TS conformer,,qchem,4875
+rxn_1396,Zeus,True,,heuristics,qchem,25920
+rxn_1378,Zeus,True,,heuristics,qchem,13697
+rxn_1884,Zeus,True,,heuristics,gauss_trsh_cleanup,10765
+rxn_1850,Zeus,True,,heuristics,gauss_trsh_cleanup,6177
+rxn_793,Zeus,True,,heuristics,qchem,11400
+rxn_857,Zeus,True,,heuristics,qchem,9389
+rxn_720,Zeus,False,Could not determine likely TS conformer,,qchem,2970
+rxn_745,Zeus,True,,heuristics,qchem,70294
+rxn_1964,Zeus,True,,heuristics,gauss_trsh_cleanup,82213
+rxn_1948,Zeus,True,,heuristics,gauss_trsh_cleanup,9070
+rxn_13,Zeus,True,,heuristics,qchem,35126
+rxn_1494,Zeus,True,,autotst,qchem,58020
+rxn_1310,Zeus,True,,heuristics,qchem,42525
+rxn_1135,Zeus,True,,heuristics,qchem,16511
+rxn_324,Zeus,True,,heuristics,qchem,8549
+rxn_1922,Zeus,True,,heuristics,gauss_trsh_cleanup,27171
+rxn_617,Zeus,True,,heuristics,qchem,138666
+rxn_262,Zeus,True,,heuristics,qchem,5017
+rxn_1631,Zeus,True,,heuristics,gaussian_unconverge_trsh,7008
+rxn_1357,Zeus,True,,heuristics,qchem,14554
+rxn_1351,Zeus,True,,heuristics,qchem,14322
+rxn_203,Zeus,True,,autotst,qchem,2522
+rxn_303,Zeus,False,Could not determine likely TS conformer,,qchem,26626
+rxn_1928,Zeus,True,,autotst,gauss_trsh_cleanup,48387
+rxn_827,Zeus,False,Could not determine likely TS conformer,,qchem,269134
+rxn_243,Zeus,False,Could not determine likely TS conformer,,qchem,7438
+rxn_615,Zeus,True,,heuristics,qchem,210424
+rxn_393,Zeus,False,Could not determine likely TS conformer,,qchem,16037
+rxn_1362,Zeus,True,,heuristics,qchem,9814
+rxn_1968,Zeus,True,,heuristics,gauss_trsh_cleanup,49769
+rxn_1911,Zeus,True,,heuristics,gauss_trsh_cleanup,29886
+rxn_791,Zeus,True,,autotst,qchem,12384
+rxn_1314,Zeus,True,,autotst,qchem,73060
+rxn_688,Zeus,True,,heuristics,qchem,839
+rxn_1992,Zeus,True,,heuristics,gauss_conformer_comb,4746
+rxn_1114,Zeus,True,,heuristics,qchem,14956
+rxn_1488,Zeus,True,,heuristics,qchem,51879
+rxn_1974,Zeus,True,,heuristics,gauss_trsh_cleanup,1796
+rxn_1981,Zeus,True,,heuristics,gauss_trsh_cleanup,4368
+rxn_1409,Zeus,False,Could not determine likely TS conformer,,qchem,109923
+rxn_1508,Zeus,True,,autotst,qchem,72409
+rxn_1423,Zeus,True,,heuristics,qchem,16353
+rxn_278,Zeus,False,Could not determine likely TS conformer,,qchem,36655
+rxn_2024,Zeus,True,,heuristics,heurist_impr,15828
+rxn_689,Zeus,False,Could not determine likely TS conformer,,qchem,550
+rxn_216,Zeus,False,Could not determine likely TS conformer,,qchem,3270
+rxn_132,Zeus,True,TS did not pass all checks,heuristics,qchem,787
+rxn_1236,Zeus,True,,autotst,qchem,10606
+rxn_997,Zeus,True,,heuristics,qchem,4479
+rxn_664,Zeus,False,Could not determine likely TS conformer,,qchem,1384
+rxn_473,Zeus,True,,heuristics,qchem,7200
+rxn_1332,Zeus,True,,heuristics,qchem,23768
+rxn_2019,Zeus,True,,heuristics,heurist_impr,8879
+rxn_1248,Zeus,True,,heuristics,qchem,5132
+rxn_309,Zeus,False,Could not determine likely TS conformer,,qchem,4211
+rxn_259,Zeus,True,,autotst,qchem,10558
+rxn_818,Zeus,True,,heuristics,qchem,1143
+rxn_765,Zeus,False,Could not determine likely TS conformer,,qchem,28683
+rxn_452,Zeus,True,,heuristics,qchem,4939
+rxn_930,Zeus,True,,heuristics,qchem,5049
+rxn_1232,Zeus,True,,heuristics,qchem,4371
+rxn_1288,Zeus,True,,heuristics,qchem,18070
+rxn_1227,Zeus,True,,autotst,qchem,15664
+rxn_1200,Zeus,True,,heuristics,qchem,33244
+rxn_218,Zeus,True,,heuristics,qchem,1173
+rxn_1660,Zeus,True,,heuristics,main,23594
+rxn_715,Zeus,True,,autotst,qchem,1451
+rxn_1020,Zeus,True,,heuristics,qchem,4183
+rxn_153,Zeus,True,TS did not pass all checks,heuristics,qchem,3177
+rxn_1994,Zeus,True,,heuristics,gauss_conformer_comb,22114
+rxn_1256,Zeus,True,,heuristics,qchem,6377
+rxn_487,Zeus,True,,heuristics,qchem,33304
+rxn_1840,Zeus,True,,heuristics,gauss_trsh_cleanup,7415
+rxn_1029,Zeus,True,,heuristics,qchem,19415
+rxn_806,Zeus,True,,heuristics,qchem,591
+rxn_1063,Zeus,True,,heuristics,qchem,26913
+rxn_1440,Zeus,True,,heuristics,qchem,53492
+rxn_289,Zeus,False,Could not determine likely TS conformer,,qchem,522
+rxn_874,Zeus,True,,heuristics,qchem,19258
+rxn_1205,Zeus,True,,heuristics,qchem,32304
+rxn_353,Zeus,False,Could not determine likely TS conformer,,qchem,6933
+rxn_287,Zeus,False,Could not determine likely TS conformer,,qchem,1472
+rxn_18,Zeus,True,,heuristics,qchem,27976
+rxn_1410,Zeus,True,,heuristics,qchem,35259
+rxn_1012,Zeus,True,,heuristics,qchem,2199
+rxn_1970,Zeus,True,,heuristics,gauss_trsh_cleanup,2820
+rxn_893,Zeus,False,Could not determine likely TS conformer,,qchem,21587
+rxn_887,Zeus,True,,heuristics,qchem,1684
+rxn_1947,Zeus,True,,heuristics,gauss_trsh_cleanup,4330
+rxn_1458,Zeus,True,,heuristics,qchem,12678
+rxn_483,Zeus,True,,heuristics,qchem,13815
+rxn_475,Zeus,True,,heuristics,qchem,6590
+rxn_683,Zeus,True,TS did not pass all checks,heuristics,qchem,631
+rxn_1347,Zeus,True,,heuristics,qchem,7313
+rxn_55,Zeus,False,Could not determine likely TS conformer,,qchem,573
+rxn_1196,Zeus,True,,heuristics,qchem,38533
+rxn_201,Zeus,True,,heuristics,qchem,984
+rxn_1365,Zeus,False,Could not determine likely TS conformer,,qchem,36381
+rxn_790,Zeus,True,,heuristics,qchem,1395
+rxn_2009,Zeus,True,,heuristics,gauss_trsh_cleanup,21428
+rxn_766,Zeus,True,,heuristics,qchem,849
+rxn_856,Zeus,True,,heuristics,qchem,4068
+rxn_1221,Zeus,True,,heuristics,qchem,18917
+rxn_691,Zeus,True,TS did not pass all checks,heuristics,qchem,1549
+rxn_1381,Zeus,True,,heuristics,qchem,13498
+rxn_1959,Zeus,True,,heuristics,gauss_trsh_cleanup,7504
+rxn_1273,Zeus,True,,heuristics,qchem,53597
+rxn_127,Zeus,True,,heuristics,qchem,918
+rxn_396,Zeus,True,,heuristics,qchem,6519
+rxn_1263,Zeus,True,,heuristics,qchem,15018
+rxn_1072,Zeus,True,,heuristics,qchem,12014
+rxn_1949,Zeus,True,,heuristics,gauss_trsh_cleanup,36035
+rxn_1405,Zeus,True,,heuristics,qchem,59800
+rxn_1014,Zeus,True,,heuristics,qchem,4924
+rxn_456,Zeus,True,,heuristics,qchem,30695
+rxn_1450,Zeus,True,,heuristics,qchem,30399
+rxn_1276,Zeus,True,,heuristics,qchem,23756
+rxn_32,Zeus,True,,heuristics,qchem,28214
+rxn_1654,Zeus,True,,heuristics,main,33209
+rxn_774,Zeus,False,Could not determine likely TS conformer,,qchem,4948
+rxn_1026,Zeus,True,,heuristics,qchem,6387
+rxn_1904,Zeus,True,,heuristics,gauss_trsh_cleanup,5585
+rxn_1298,Zeus,True,,heuristics,qchem,4769
+rxn_1128,Zeus,True,,heuristics,qchem,13308
+rxn_1286,Zeus,True,,heuristics,qchem,11521
+rxn_1189,Zeus,False,Could not determine likely TS conformer,,qchem,197343
+rxn_252,Zeus,True,,heuristics,qchem,1653
+rxn_176,Zeus,True,,heuristics,qchem,10266
+rxn_250,Zeus,True,,heuristics,qchem,3054
+rxn_1045,Zeus,True,,heuristics,qchem,23813
+rxn_781,Zeus,True,TS did not pass all checks,heuristics,qchem,2996
+rxn_356,Zeus,True,,heuristics,qchem,8901
+rxn_381,Zeus,False,Could not determine likely TS conformer,,qchem,4269
+rxn_1087,Zeus,True,,heuristics,qchem,19226
+rxn_762,Zeus,True,,heuristics,qchem,4567
+rxn_322,Zeus,True,,heuristics,qchem,4684
+rxn_1093,Zeus,True,,heuristics,qchem,14751
+rxn_257,Zeus,False,Could not determine likely TS conformer,,qchem,26043
+rxn_645,Zeus,True,,heuristics,qchem,434
+rxn_567,Zeus,True,,heuristics,qchem,50958
+rxn_1210,Zeus,True,,heuristics,qchem,35920
+rxn_1131,Zeus,True,,heuristics,qchem,26098
+rxn_46,Zeus,False,Could not determine likely TS conformer,,qchem,27088
+rxn_67,Zeus,False,Could not determine likely TS conformer,,qchem,402
+rxn_1374,Zeus,True,,heuristics,qchem,12299
+rxn_200,Zeus,False,Could not determine likely TS conformer,,qchem,7810
+rxn_31,Zeus,True,,heuristics,qchem,11899
+rxn_747,Zeus,False,Could not determine likely TS conformer,,qchem,44075
+rxn_372,Zeus,True,,heuristics,qchem,1881
+rxn_188,Zeus,True,,heuristics,qchem,1883
+rxn_1348,Zeus,True,,heuristics,qchem,8798
+rxn_1091,Zeus,True,,heuristics,qchem,26859
+rxn_554,Zeus,True,,heuristics,qchem,62936
+rxn_1152,Zeus,True,,heuristics,qchem,26292
+rxn_867,Zeus,True,,heuristics,qchem,2376
+rxn_1874,Zeus,True,,heuristics,gauss_trsh_cleanup,4380
+rxn_1306,Zeus,False,Could not determine likely TS conformer,,qchem,51870
+rxn_2002,Zeus,True,,heuristics,gauss_conformer_comb,20985
+rxn_1356,Zeus,True,,heuristics,qchem,16266
+rxn_1239,Zeus,True,,heuristics,qchem,16765
+rxn_752,Zeus,True,,heuristics,qchem,2859
+rxn_1812,Zeus,True,,heuristics,gauss_trsh_cleanup,3195
+rxn_291,Zeus,False,Could not determine likely TS conformer,,qchem,32521
+rxn_850,Zeus,True,,heuristics,qchem,2853
+rxn_633,Zeus,True,,heuristics,qchem,534
+rxn_1898,Zeus,True,,heuristics,gauss_trsh_cleanup,8454
+rxn_1441,Zeus,True,,heuristics,qchem,42753
+rxn_1138,Zeus,True,,heuristics,qchem,20707
+rxn_979,Zeus,False,Could not determine likely TS conformer,,qchem,19436
+rxn_854,Zeus,True,,heuristics,qchem,1767
+rxn_948,Zeus,True,,heuristics,qchem,9940
+rxn_49,Zeus,False,Could not determine likely TS conformer,,qchem,35968
+rxn_605,Zeus,True,,heuristics,qchem,92966
+rxn_1007,Zeus,True,,heuristics,qchem,7922
+rxn_767,Zeus,False,Could not determine likely TS conformer,,qchem,11321
+rxn_1336,Zeus,True,,heuristics,qchem,16428
+rxn_1422,Zeus,True,,heuristics,qchem,22251
+rxn_193,Zeus,True,TS did not pass all checks,autotst,qchem,1767
+rxn_743,Zeus,True,,heuristics,qchem,37089
+rxn_1644,Zeus,True,,heuristics,main,16161
+rxn_1671,Zeus,True,,heuristics,main,33736
+rxn_1510,Zeus,True,,heuristics,qchem,64483
+rxn_233,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,qchem,1502
+rxn_1592,Zeus,True,,autotst,main,6179
+rxn_1652,Zeus,True,,heuristics,main,23555
+rxn_735,Zeus,True,,autotst,qchem,61253
+rxn_872,Zeus,True,,heuristics,qchem,8599
+rxn_897,Zeus,True,,heuristics,qchem,8758
+rxn_912,Zeus,True,,heuristics,qchem,12744
+rxn_1407,Zeus,False,Could not determine likely TS conformer,,qchem,25481
+rxn_1646,Zeus,False,Could not determine likely TS conformer,,main,8483
+rxn_1787,Zeus,True,,heuristics,gauss_trsh_cleanup,40185
+rxn_255,Zeus,False,Could not determine likely TS conformer,,qchem,5120
+rxn_974,Zeus,True,,heuristics,qchem,14696
+rxn_438,Zeus,True,,autotst,qchem,4270
+rxn_60,Zeus,True,,heuristics,qchem,2059
+rxn_136,Zeus,False,Could not determine likely TS conformer,,qchem,7421
+rxn_870,Zeus,False,Could not determine likely TS conformer,,qchem,7035
+rxn_63,Zeus,True,,heuristics,qchem,269
+rxn_1626,Zeus,True,,heuristics,gaussian_unconverge_trsh,32125
+rxn_690,Zeus,True,,autotst,qchem,5505
+rxn_1983,Zeus,True,,heuristics,gauss_trsh_cleanup,8478
+rxn_1581,Zeus,True,,heuristics,main,52864
+rxn_461,Zeus,True,,heuristics,qchem,60935
+rxn_337,Zeus,True,,heuristics,qchem,9437
+rxn_1281,Zeus,True,,heuristics,qchem,9018
+rxn_1595,Zeus,True,,heuristics,gaussian_unconverge_trsh,17147
+rxn_344,Zeus,True,,heuristics,qchem,1379
+rxn_669,Zeus,False,Could not determine likely TS conformer,,qchem,1600
+rxn_314,Zeus,True,,heuristics,qchem,902
+rxn_687,Zeus,False,Could not determine likely TS conformer,,qchem,522
+rxn_984,Zeus,True,,heuristics,qchem,16398
+rxn_1832,Zeus,True,,autotst,gauss_trsh_cleanup,4656
+rxn_1902,Zeus,True,,heuristics,gauss_trsh_cleanup,3070
+rxn_1425,Zeus,True,,heuristics,qchem,22431
+rxn_1880,Zeus,True,,heuristics,gauss_trsh_cleanup,23091
+rxn_824,Zeus,True,,heuristics,qchem,1540
+rxn_1337,Zeus,True,,heuristics,qchem,70897
+rxn_1937,Zeus,True,,heuristics,gauss_trsh_cleanup,5897
+rxn_842,Zeus,True,,heuristics,qchem,933
+rxn_792,Zeus,True,,heuristics,qchem,7383
+rxn_1345,Zeus,False,Could not determine likely TS conformer,,qchem,3417
+rxn_668,Zeus,False,Could not determine likely TS conformer,,qchem,1501
+rxn_739,Zeus,True,,heuristics,qchem,57511
+rxn_90,Zeus,True,,heuristics,qchem,4194
+rxn_1975,Zeus,True,,heuristics,gauss_trsh_cleanup,2998
+rxn_1886,Zeus,True,,heuristics,gauss_trsh_cleanup,2239
+rxn_1369,Zeus,True,,heuristics,qchem,13466
+rxn_122,Zeus,False,Could not determine likely TS conformer,,qchem,13921
+rxn_1359,Zeus,True,,heuristics,qchem,25751
+rxn_573,Zeus,True,,heuristics,qchem,40867
+rxn_476,Zeus,True,,heuristics,qchem,2252
+rxn_629,Zeus,True,,heuristics,qchem,597
+rxn_1317,Zeus,True,,heuristics,qchem,80046
+rxn_1625,Zeus,True,,heuristics,gaussian_unconverge_trsh,2921
+rxn_1786,Zeus,True,,heuristics,heurist_impr,70599
+rxn_681,Zeus,True,,heuristics,qchem,892
+rxn_97,Zeus,True,,heuristics,qchem,10177
+rxn_1837,Zeus,True,,heuristics,gauss_trsh_cleanup,2739
+rxn_1909,Zeus,True,,heuristics,gauss_trsh_cleanup,2532
+rxn_847,Zeus,True,,heuristics,qchem,3505
+rxn_1268,Zeus,True,,autotst,qchem,38070
+rxn_884,Zeus,True,,autotst,qchem,12384
+rxn_1363,Zeus,True,,heuristics,qchem,11545
+rxn_1498,Zeus,True,,autotst,qchem,62860
+rxn_1435,Zeus,True,,heuristics,qchem,50162
+rxn_560,Zeus,True,,heuristics,qchem,75682
+rxn_320,Zeus,False,Could not determine likely TS conformer,,qchem,3215
+rxn_1110,Zeus,True,,heuristics,qchem,13171
+rxn_1794,Zeus,True,,heuristics,gauss_trsh_cleanup,14112
+rxn_166,Zeus,True,TS did not pass all checks,heuristics,qchem,3250
+rxn_1050,Zeus,True,,heuristics,qchem,22291
+rxn_1125,Zeus,True,,autotst,qchem,16441
+rxn_1854,Zeus,True,,heuristics,gauss_trsh_cleanup,2660
+rxn_1408,Zeus,True,,heuristics,qchem,70455
+rxn_302,Zeus,False,Could not determine likely TS conformer,,qchem,9890
+rxn_1230,Zeus,True,,heuristics,qchem,3524
+rxn_728,Zeus,False,Could not determine likely TS conformer,,qchem,390013
+rxn_1259,Zeus,True,,heuristics,qchem,12732
+rxn_247,Zeus,True,,heuristics,qchem,3349
+rxn_601,Zeus,True,,heuristics,qchem,51668
+rxn_563,Zeus,True,,heuristics,qchem,62111
+rxn_1270,Zeus,True,,heuristics,qchem,19600
+rxn_383,Zeus,True,,heuristics,qchem,1115
+rxn_1867,Zeus,True,,heuristics,gauss_trsh_cleanup,8997
+rxn_919,Zeus,True,,heuristics,qchem,8647
+rxn_1892,Zeus,True,,heuristics,gauss_trsh_cleanup,3863
+rxn_478,Zeus,True,,heuristics,qchem,2130
+rxn_305,Zeus,False,Could not determine likely TS conformer,,qchem,502
+rxn_38,Zeus,True,,heuristics,qchem,4687
+rxn_319,Zeus,True,,heuristics,qchem,3698
+rxn_1089,Zeus,True,,heuristics,qchem,28633
+rxn_373,Zeus,True,,heuristics,qchem,4628
+rxn_612,Zeus,True,,heuristics,qchem,81212
+rmg_rxn_16580,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16518,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1305
+rmg_rxn_16594,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16418,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11311
+rmg_rxn_16384,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12140
+rmg_rxn_16703,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16506,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16766,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16354,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11544
+rmg_rxn_16723,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,2797
+rmg_rxn_16597,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16807,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16627,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,4633
+rmg_rxn_16718,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2495
+rmg_rxn_16716,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16420,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11123
+rmg_rxn_16722,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16342,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16650,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16788,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2901
+rmg_rxn_16538,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,1018
+rmg_rxn_16669,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4993
+rmg_rxn_16545,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16813,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,47008
+rmg_rxn_16427,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,33567
+rmg_rxn_16630,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4353
+rmg_rxn_16471,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16725,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8459
+rmg_rxn_16717,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1257
+rmg_rxn_16402,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10895
+rmg_rxn_16740,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16486,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16654,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16453,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12000
+rmg_rxn_16460,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16499,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16691,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16484,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16490,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1280
+rmg_rxn_16787,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3465
+rmg_rxn_16693,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16763,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16759,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16762,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16391,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11232
+rmg_rxn_16738,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16780,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16509,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3470
+rmg_rxn_16350,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10534
+rmg_rxn_16640,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16588,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16532,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16476,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16811,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,106578
+rmg_rxn_16685,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4667
+rmg_rxn_16421,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11404
+rmg_rxn_16751,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16557,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16739,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16429,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11272
+rmg_rxn_16579,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16790,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8345
+rmg_rxn_16775,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16565,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16582,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,5071
+rmg_rxn_16673,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16742,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16735,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16670,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3175
+rmg_rxn_16706,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16707,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1351
+rmg_rxn_16395,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11726
+rmg_rxn_16480,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16823,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16544,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16439,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11163
+rmg_rxn_16362,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10255
+rmg_rxn_16376,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,15258
+rmg_rxn_16803,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16682,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9225
+rmg_rxn_16536,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16560,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16596,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16752,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16705,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16564,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16816,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16574,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2662
+rmg_rxn_16562,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16577,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1756
+rmg_rxn_16385,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13221
+rmg_rxn_16642,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16531,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16784,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9590
+rmg_rxn_16760,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16525,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16619,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,1963
+rmg_rxn_16694,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16724,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,2813
+rmg_rxn_16796,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16593,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16357,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11386
+rmg_rxn_16412,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,23285
+rmg_rxn_16396,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11708
+rmg_rxn_16801,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16392,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11874
+rmg_rxn_16606,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16698,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16591,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2628
+rmg_rxn_16653,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16528,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16355,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11539
+rmg_rxn_16733,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,26512
+rmg_rxn_16442,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11145
+rmg_rxn_16684,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3478
+rmg_rxn_16372,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10545
+rmg_rxn_16804,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16602,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2792
+rmg_rxn_16379,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11246
+rmg_rxn_16387,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13317
+rmg_rxn_16800,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16510,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16626,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16799,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16381,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13429
+rmg_rxn_16824,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16367,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11373
+rmg_rxn_16639,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16767,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1281
+rmg_rxn_16750,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16599,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16400,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11195
+rmg_rxn_16643,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16746,Zeus,False,Opt did not pass isomorphism check,,crest_debug_statement,3092
+rmg_rxn_16388,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13637
+rmg_rxn_16755,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16576,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3779
+rmg_rxn_16505,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16345,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10690
+rmg_rxn_16416,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11264
+rmg_rxn_16467,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16343,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10554
+rmg_rxn_16661,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8053
+rmg_rxn_16512,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16589,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16356,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11100
+rmg_rxn_16672,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16517,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16655,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16753,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16769,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16638,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16349,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10518
+rmg_rxn_16411,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10940
+rmg_rxn_16358,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10801
+rmg_rxn_16537,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,1311
+rmg_rxn_16786,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16624,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16715,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16623,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16548,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16389,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13299
+rmg_rxn_16363,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10283
+rmg_rxn_16732,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16600,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1889
+rmg_rxn_16749,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16522,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16497,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16756,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16558,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16501,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16603,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16452,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12539
+rmg_rxn_16581,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16797,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16485,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1309
+rmg_rxn_16662,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11694
+rmg_rxn_16737,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16351,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10874
+rmg_rxn_16680,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8031
+rmg_rxn_16465,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16696,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16699,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16613,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16658,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11131
+rmg_rxn_16408,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10753
+rmg_rxn_16503,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16743,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16776,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16622,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16458,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12557
+rmg_rxn_16454,Zeus,False,Opt did not pass isomorphism check,,crest_debug_statement,109706
+rmg_rxn_16430,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10603
+rmg_rxn_16477,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
+rmg_rxn_16496,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16424,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11460
+rmg_rxn_16744,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,2786
+rmg_rxn_16731,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16521,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16798,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16601,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2865
+rmg_rxn_16492,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2577
+rmg_rxn_16542,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16745,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16736,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16344,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11440
+rmg_rxn_16433,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11386
+rmg_rxn_16573,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16778,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16457,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11962
+rmg_rxn_16572,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1892
+rmg_rxn_16652,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16808,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16373,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11958
+rmg_rxn_16534,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16610,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16559,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
+rmg_rxn_16370,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10880
+rmg_rxn_16428,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10176
+rmg_rxn_16817,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,14559
+rmg_rxn_16438,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10766
+rmg_rxn_16604,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16633,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16495,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1422
+rmg_rxn_16422,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10825
+rmg_rxn_16614,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16493,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16386,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13518
+rmg_rxn_16526,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3814
+rmg_rxn_16500,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4987
+rmg_rxn_16818,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13282
+rmg_rxn_16773,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16748,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2483
+rmg_rxn_16697,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16419,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12321
+rmg_rxn_16346,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10784
+rmg_rxn_16635,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16348,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10663
+rmg_rxn_16709,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,4456
+rmg_rxn_16770,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16758,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16793,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2197
+rmg_rxn_16550,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16519,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1389
+rmg_rxn_16741,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16369,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10829
+rmg_rxn_16571,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16380,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11859
+rmg_rxn_16347,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10994
+rmg_rxn_16569,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16449,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11422
+rmg_rxn_16504,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16450,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11945
+rmg_rxn_16468,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16515,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16592,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16463,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16375,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12340
+rmg_rxn_16641,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16462,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16403,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10861
+rmg_rxn_16713,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16447,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12269
+rmg_rxn_16812,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,88232
+rmg_rxn_16516,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16689,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16720,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16822,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16711,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16364,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10999
+rmg_rxn_16677,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8930
+rmg_rxn_16481,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16795,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16611,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16806,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16507,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16772,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16547,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16779,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16665,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,6826
+rmg_rxn_16406,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10811
+rmg_rxn_16359,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11421
+rmg_rxn_16487,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16540,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16809,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16666,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4983
+rmg_rxn_16394,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11137
+rmg_rxn_16489,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16553,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16646,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16561,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16590,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16810,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16585,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16761,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16451,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10518
+rmg_rxn_16657,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,7734
+rmg_rxn_16727,Zeus,False,Could not find value in dictionary,,crest_debug_statement,
+rmg_rxn_16404,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10924
+rmg_rxn_16634,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16802,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16455,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12303
+rmg_rxn_16352,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10555
+rmg_rxn_16470,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16683,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12261
+rmg_rxn_16701,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16479,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16578,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16511,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16502,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16792,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16378,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12486
+rmg_rxn_16719,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16383,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12113
+rmg_rxn_16410,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11764
+rmg_rxn_16625,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16757,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,34983
+rmg_rxn_16819,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16445,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11098
+rmg_rxn_16398,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10478
+rmg_rxn_16527,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16555,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16794,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3166
+rmg_rxn_16620,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,2874
+rmg_rxn_16397,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11996
+rmg_rxn_16781,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1937
+rmg_rxn_16426,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10575
+rmg_rxn_16478,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
+rmg_rxn_16730,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16651,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16554,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16628,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4348
+rmg_rxn_16664,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9537
+rmg_rxn_16765,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16820,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,14084
+rmg_rxn_16543,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16815,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16616,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16390,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,18461
+rmg_rxn_16461,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16595,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16690,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16728,Zeus,False,Could not find value in dictionary,,crest_debug_statement,
+rmg_rxn_16605,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16668,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,5611
+rmg_rxn_16632,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16754,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16524,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16708,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1951
+rmg_rxn_16508,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16631,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16436,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10772
+rmg_rxn_16692,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16615,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16660,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8664
+rmg_rxn_16456,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10560
+rmg_rxn_16583,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16371,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10839
+rmg_rxn_16609,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16608,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4087
+rmg_rxn_16791,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16382,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11786
+rmg_rxn_16688,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4683
+rmg_rxn_16675,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16726,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16575,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16520,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1583
+rmg_rxn_16448,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11134
+rmg_rxn_16667,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3784
+rmg_rxn_16417,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11201
+rmg_rxn_16361,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9881
+rmg_rxn_16785,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16747,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1260
+rmg_rxn_16825,Zeus,False,Zip argument #1 must support iteration,,crest_debug_statement,
+rmg_rxn_16656,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16366,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11393
+rmg_rxn_16523,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16409,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11356
+rmg_rxn_16721,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16712,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16413,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,76144
+rmg_rxn_16645,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16637,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16676,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16368,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10802
+rmg_rxn_16474,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16647,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16789,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,5367
+rmg_rxn_16663,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,7848
+rmg_rxn_16805,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16530,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
+rmg_rxn_16584,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16777,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16374,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12043
+rmg_rxn_16636,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16415,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,25673
+rmg_rxn_16459,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12519
+rmg_rxn_16774,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16621,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16607,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16441,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11041
+rmg_rxn_16498,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16407,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10495
+rmg_rxn_16437,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11657
+rmg_rxn_16464,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16700,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16783,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9670
+rmg_rxn_16472,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16541,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16466,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16399,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10765
+rmg_rxn_16494,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2867
+rmg_rxn_16393,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11497
+rmg_rxn_16491,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16444,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,34486
+rmg_rxn_16539,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16435,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11078
+rmg_rxn_16587,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16483,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16686,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12896
+rmg_rxn_16570,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2850
+rmg_rxn_16563,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16821,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13374
+rmg_rxn_16440,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11701
+rmg_rxn_16695,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16674,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16618,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16535,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16432,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12007
+rmg_rxn_16529,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16423,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,25278
+rmg_rxn_16401,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11201
+rmg_rxn_16566,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16729,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16425,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11636
+rmg_rxn_16469,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16475,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16434,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11366
+rmg_rxn_16649,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16431,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11084
+rmg_rxn_16617,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16567,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2892
+rmg_rxn_16644,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16514,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16414,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11763
+rmg_rxn_16771,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16551,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16612,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
+rmg_rxn_16586,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16405,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12617
+rmg_rxn_16446,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12243
+rmg_rxn_16377,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12139
+rmg_rxn_16629,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,4325
+rmg_rxn_16360,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10531
+rmg_rxn_16598,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16482,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16552,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16353,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10845
+rmg_rxn_16568,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16768,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3693
+rmg_rxn_16671,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16782,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2025
+rmg_rxn_16659,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8047
+rmg_rxn_16546,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16443,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10857
+rmg_rxn_16687,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3210
+rmg_rxn_16679,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8305
+rmg_rxn_16714,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16513,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16549,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16704,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16681,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8937
+rmg_rxn_16702,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16648,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16556,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16365,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11089
+rmg_rxn_16488,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1301
+rmg_rxn_16764,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16533,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16678,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8932
+rmg_rxn_16473,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16710,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,142819
+rmg_rxn_16814,Zeus,True,Symmetry GCLIB Error,,crest_debug_statement,187994
+rmg_rxn_16734,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,54151
+rmg_rxn_648,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest,54147
+rmg_rxn_419,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,17028
+rmg_rxn_1183,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,277472
+rmg_rxn_1205,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,909441
+rmg_rxn_1141,Atlas,True,TS did not pass all checks,heuristics,crest_nmd,158258
+rmg_rxn_199,Atlas,True,,heuristics,gauss_trsh_cleanup,49279
+rmg_rxn_153,Atlas,True,,heuristics,gauss_trsh_cleanup,22697
+rmg_rxn_425,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,35430
+rmg_rxn_418,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,8548
+rmg_rxn_607,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,8645
+rmg_rxn_509,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,26649
+rmg_rxn_348,Atlas,True,,heuristics,gauss_trsh_cleanup,20914
+rmg_rxn_244,Atlas,True,,heuristics,gauss_trsh_cleanup,51414
+rmg_rxn_1200,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,359751
+rmg_rxn_302,Atlas,True,,heuristics,gauss_trsh_cleanup,28181
+rmg_rxn_692,Atlas,False,Could not determine likely TS conformer,,crest,107856
+rmg_rxn_227,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,22477
+rmg_rxn_635,Atlas,True,,heuristics,gauss_trsh_cleanup,38218
+rmg_rxn_642,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest,90496
+rmg_rxn_294,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,86461
+rmg_rxn_248,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,57293
+rmg_rxn_751,Atlas,False,Could not determine likely TS conformer,,crest,117766
+rmg_rxn_1339,Atlas,True,,heuristics,debug_statement,152007
+rmg_rxn_44,Atlas,True,,heuristics,gauss_trsh_cleanup,24211
+rmg_rxn_357,Atlas,True,,heuristics,gauss_trsh_cleanup,13039
+rmg_rxn_377,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,33928
+rmg_rxn_291,Atlas,True,,autotst,gauss_trsh_cleanup,495874
+rmg_rxn_289,Atlas,True,,heuristics,gauss_trsh_cleanup,41052
+rmg_rxn_85,Atlas,True,,heuristics,gauss_trsh_cleanup,5530
+rmg_rxn_652,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest,20380
+rmg_rxn_638,Atlas,True,,heuristics,crest,16737
+rmg_rxn_86,Atlas,True,,heuristics,gauss_trsh_cleanup,8214
+rmg_rxn_498,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,38455
+rmg_rxn_41,Atlas,True,,autotst,gauss_trsh_cleanup,65646
+rmg_rxn_1159,Atlas,False,Could not determine likely TS conformer,,crest_nmd,205288
+rmg_rxn_506,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,8271
+rmg_rxn_174,Atlas,True,,heuristics,gauss_trsh_cleanup,21045
+rmg_rxn_1130,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest_nmd,9870
+rmg_rxn_768,Atlas,False,Could not determine likely TS conformer,,crest,38960
+rmg_rxn_663,Atlas,True,,heuristics,crest,36976
+rmg_rxn_249,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,27479
+rmg_rxn_232,Atlas,True,,heuristics,gauss_trsh_cleanup,44833
+rmg_rxn_287,Atlas,True,,autotst,gauss_trsh_cleanup,142772
+rmg_rxn_205,Atlas,True,,heuristics,gauss_trsh_cleanup,51341
+rmg_rxn_396,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,18875
+rmg_rxn_1363,Atlas,False,Could not determine likely TS conformer,,(HEAD detached at 7b8e561d),350928
+rmg_rxn_364,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,24558
+rmg_rxn_2,Atlas,True,,heuristics,gauss_trsh_cleanup,6873
+rmg_rxn_341,Atlas,True,,heuristics,gauss_trsh_cleanup,52831
+rmg_rxn_1138,Atlas,False,Could not determine likely TS conformer,,crest_nmd,37048
+rmg_rxn_546,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,42037
+rmg_rxn_501,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,26350
+rmg_rxn_738,Atlas,False,Could not determine likely TS conformer,,crest,59980
+rmg_rxn_60,Atlas,True,,heuristics,gauss_trsh_cleanup,49951
+rmg_rxn_189,Atlas,True,,heuristics,gauss_trsh_cleanup,8527
+rmg_rxn_420,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,5242
+rmg_rxn_668,Atlas,True,,heuristics,crest,33914
+rmg_rxn_201,Atlas,True,,heuristics,gauss_trsh_cleanup,95809
+rmg_rxn_277,Atlas,True,,heuristics,gauss_trsh_cleanup,77228
+rmg_rxn_398,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,53088
+rmg_rxn_363,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,16955
+rmg_rxn_678,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest,26090
+rmg_rxn_356,Atlas,True,,heuristics,gauss_trsh_cleanup,24654
+rmg_rxn_521,Atlas,True,,heuristics,gauss_trsh_cleanup,33337
+rmg_rxn_1366,Atlas,False,Could not determine likely TS conformer,,(HEAD detached at 7b8e561d),483945
+rmg_rxn_590,Atlas,True,,heuristics,gauss_trsh_cleanup,26041
+rmg_rxn_1337,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,debug_statement,64018
+rmg_rxn_381,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,44456
+rmg_rxn_265,Atlas,True,,heuristics,gauss_trsh_cleanup,88315
+rmg_rxn_299,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,51755
+rmg_rxn_33,Atlas,True,,heuristics,gauss_trsh_cleanup,33047
+rmg_rxn_279,Atlas,True,,heuristics,gauss_trsh_cleanup,97652
+rmg_rxn_25,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,201500
+rmg_rxn_216,Atlas,True,,heuristics,gauss_trsh_cleanup,56799
+rmg_rxn_5,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,44108
+rmg_rxn_1345,Atlas,True,,heuristics,debug_statement,699202
+rmg_rxn_1173,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,191185
+rmg_rxn_606,Atlas,True,,heuristics,gauss_trsh_cleanup,21767
+rmg_rxn_661,Atlas,True,,heuristics,crest,39641
+rmg_rxn_206,Atlas,True,,heuristics,gauss_trsh_cleanup,19379
+rmg_rxn_545,Atlas,True,,heuristics,gauss_trsh_cleanup,21175
+rmg_rxn_190,Atlas,True,,heuristics,gauss_trsh_cleanup,14541
+rmg_rxn_316,Atlas,True,,heuristics,gauss_trsh_cleanup,28143
+rmg_rxn_255,Atlas,True,,heuristics,gauss_trsh_cleanup,42589
+rmg_rxn_254,Atlas,True,,heuristics,gauss_trsh_cleanup,281132
+rmg_rxn_76,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,12762
+rmg_rxn_306,Atlas,True,,heuristics,gauss_trsh_cleanup,4920
+rmg_rxn_423,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,32078
+rmg_rxn_226,Atlas,True,,heuristics,gauss_trsh_cleanup,50417
+rmg_rxn_314,Atlas,True,,heuristics,gauss_trsh_cleanup,39050
+rmg_rxn_610,Atlas,True,,heuristics,gauss_trsh_cleanup,8758
+rmg_rxn_504,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,11601
+rmg_rxn_313,Atlas,True,,heuristics,gauss_trsh_cleanup,33046
+rmg_rxn_311,Atlas,True,,heuristics,gauss_trsh_cleanup,49499
+rmg_rxn_224,Atlas,True,,heuristics,gauss_trsh_cleanup,39210
+rmg_rxn_196,Atlas,True,,heuristics,gauss_trsh_cleanup,99415
+rmg_rxn_406,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,53983
+rmg_rxn_351,Atlas,True,,heuristics,gauss_trsh_cleanup,51001
+rmg_rxn_1349,Atlas,True,,autotst,debug_statement,54594
+rmg_rxn_256,Atlas,True,,heuristics,gauss_trsh_cleanup,27225
+rmg_rxn_191,Atlas,True,,heuristics,gauss_trsh_cleanup,23954
+rmg_rxn_228,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,78965
+rmg_rxn_245,Atlas,True,,heuristics,gauss_trsh_cleanup,37783
+rmg_rxn_1193,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,1190892
+rmg_rxn_630,Atlas,True,,heuristics,gauss_trsh_cleanup,91701
+rmg_rxn_87,Atlas,True,,heuristics,gauss_trsh_cleanup,16422
+rmg_rxn_178,Atlas,True,,heuristics,gauss_trsh_cleanup,25151
+rmg_rxn_346,Atlas,True,,heuristics,gauss_trsh_cleanup,131849
+rmg_rxn_152,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,32023
+rmg_rxn_1176,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,34000
+rmg_rxn_151,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,141787
+rmg_rxn_741,Atlas,False,Could not determine likely TS conformer,,crest,17327
+rmg_rxn_57,Atlas,True,,heuristics,gauss_trsh_cleanup,160980
+rmg_rxn_1155,Atlas,True,,heuristics,crest_nmd,19973
+rmg_rxn_10,Atlas,True,,heuristics,gauss_trsh_cleanup,88231
+rmg_rxn_215,Atlas,True,,heuristics,gauss_trsh_cleanup,36926
+rmg_rxn_1044,Atlas,False,Could not determine likely TS conformer,,crest_nmd,439786
+rmg_rxn_667,Atlas,False,Could not determine likely TS conformer,,crest,16987
+rmg_rxn_658,Atlas,True,,heuristics,crest,23951
+rmg_rxn_646,Atlas,True,,heuristics,crest,56222
+rmg_rxn_370,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,14111
+rmg_rxn_600,Atlas,True,,autotst,gauss_trsh_cleanup,32344
+rmg_rxn_596,Atlas,True,,heuristics,gauss_trsh_cleanup,1897
+rmg_rxn_409,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,42256
+rmg_rxn_183,Atlas,True,,heuristics,gauss_trsh_cleanup,11023
+rmg_rxn_319,Atlas,True,,heuristics,gauss_trsh_cleanup,13377
+rmg_rxn_266,Atlas,True,,heuristics,gauss_trsh_cleanup,21193
+rmg_rxn_1188,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,868422
+rmg_rxn_65,Atlas,True,,autotst,gauss_trsh_cleanup,99986
+rmg_rxn_175,Atlas,True,,heuristics,gauss_trsh_cleanup,15320
+rmg_rxn_300,Atlas,True,,heuristics,gauss_trsh_cleanup,33544
+rmg_rxn_7,Atlas,True,,heuristics,gauss_trsh_cleanup,10219
+rmg_rxn_599,Atlas,True,,heuristics,gauss_trsh_cleanup,10001
+rmg_rxn_523,Atlas,True,,heuristics,gauss_trsh_cleanup,32489
+rmg_rxn_1149,Atlas,False,Could not determine likely TS conformer,,crest_nmd,12734
+rmg_rxn_280,Atlas,True,,heuristics,gauss_trsh_cleanup,209483
+rmg_rxn_24,Atlas,True,,heuristics,gauss_trsh_cleanup,207194
+rmg_rxn_529,Atlas,True,,heuristics,gauss_trsh_cleanup,4324
+rmg_rxn_1153,Atlas,True,,heuristics,crest_nmd,7634
+rmg_rxn_80,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,5508
+rmg_rxn_1344,Atlas,True,,heuristics,debug_statement,548560
+rmg_rxn_53,Atlas,True,"Reactant or Product did not converge, but TS did",autotst,gauss_trsh_cleanup,50710
+rmg_rxn_257,Atlas,True,,heuristics,gauss_trsh_cleanup,153157
+rmg_rxn_641,Atlas,False,Could not determine likely TS conformer,,crest,49806
+rmg_rxn_618,Atlas,True,,heuristics,gauss_trsh_cleanup,14327
+rmg_rxn_1207,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,875938
+rmg_rxn_29,Atlas,True,,heuristics,gauss_trsh_cleanup,7034
+rmg_rxn_295,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,322624
+rmg_rxn_282,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,16090
+rmg_rxn_662,Atlas,True,,heuristics,crest,27360
+rmg_rxn_182,Atlas,True,,heuristics,gauss_trsh_cleanup,5234
+rmg_rxn_1174,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,64091
+rmg_rxn_1134,Atlas,True,,autotst,crest_nmd,5778
+rmg_rxn_231,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,203497
+rmg_rxn_592,Atlas,True,,heuristics,gauss_trsh_cleanup,46201
+rmg_rxn_508,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,14380
+rmg_rxn_288,Atlas,True,,heuristics,gauss_trsh_cleanup,142151
+rmg_rxn_179,Atlas,True,,heuristics,gauss_trsh_cleanup,26626
+rmg_rxn_61,Atlas,True,,heuristics,gauss_trsh_cleanup,37566
+rmg_rxn_1210,Atlas,False,Could not determine likely TS conformer,,debug_statement,93399
+rmg_rxn_343,Atlas,True,,heuristics,gauss_trsh_cleanup,11603
+rmg_rxn_383,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,40949
+rmg_rxn_1137,Atlas,True,,autotst,crest_nmd,37036
+rmg_rxn_200,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,40138
+rmg_rxn_1162,Atlas,True,TS did not pass all checks,heuristics,crest_nmd,54076
+rmg_rxn_12,Atlas,True,,heuristics,gauss_trsh_cleanup,49565
+rmg_rxn_408,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,2488
+rmg_rxn_1147,Atlas,True,,autotst,crest_nmd,4898
+rmg_rxn_97,Atlas,True,,heuristics,gauss_trsh_cleanup,11246
+rmg_rxn_187,Atlas,True,,heuristics,gauss_trsh_cleanup,32997
+rmg_rxn_740,Atlas,False,Could not determine likely TS conformer,,crest,24449
+rmg_rxn_1034,Atlas,False,Could not determine likely TS conformer,,crest,65163
+rmg_rxn_1163,Atlas,True,,heuristics,crest_nmd,25544
+rmg_rxn_194,Atlas,True,,heuristics,gauss_trsh_cleanup,23445
+rmg_rxn_339,Atlas,True,,heuristics,gauss_trsh_cleanup,72739
+rmg_rxn_352,Atlas,True,,heuristics,gauss_trsh_cleanup,112001
+rmg_rxn_1346,Atlas,False,Could not determine likely TS conformer,,debug_statement,722282
+rmg_rxn_349,Atlas,True,,heuristics,gauss_trsh_cleanup,46807
+rmg_rxn_735,Atlas,False,Could not determine likely TS conformer,,crest,40180
+rmg_rxn_736,Atlas,False,Could not determine likely TS conformer,,crest,51336
+rmg_rxn_611,Atlas,True,,autotst,gauss_trsh_cleanup,33578
+rmg_rxn_58,Atlas,True,,heuristics,gauss_trsh_cleanup,48106
+rmg_rxn_236,Atlas,True,,heuristics,gauss_trsh_cleanup,47147
+rmg_rxn_613,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,25745
+rmg_rxn_335,Atlas,True,,heuristics,gauss_trsh_cleanup,68782
+rmg_rxn_395,Atlas,True,"Reactant or Product did not converge, but TS did",autotst,gauss_trsh_cleanup,64247
+rmg_rxn_347,Atlas,True,,heuristics,gauss_trsh_cleanup,42304
+rmg_rxn_384,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,20078
+rmg_rxn_746,Atlas,False,Could not determine likely TS conformer,,crest,27344
+rmg_rxn_13,Atlas,True,,heuristics,gauss_trsh_cleanup,5317
+rmg_rxn_374,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,61664
+rmg_rxn_193,Atlas,True,,heuristics,gauss_trsh_cleanup,153315
+rmg_rxn_1197,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,384196
+rmg_rxn_220,Atlas,True,,autotst,gauss_trsh_cleanup,66442
+rmg_rxn_643,Atlas,False,Could not determine likely TS conformer,,crest,88662
+rmg_rxn_399,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,83778
+rmg_rxn_1038,Atlas,False,Could not determine likely TS conformer,,crest,49958
+rmg_rxn_207,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,25869
+rmg_rxn_229,Atlas,True,,heuristics,gauss_trsh_cleanup,89795
+rmg_rxn_317,Atlas,True,,heuristics,gauss_trsh_cleanup,134079
+rmg_rxn_46,Atlas,True,,heuristics,gauss_trsh_cleanup,19841
+rmg_rxn_96,Atlas,True,,heuristics,gauss_trsh_cleanup,28783
+rmg_rxn_1041,Atlas,False,Could not determine likely TS conformer,,crest,43186
+rmg_rxn_52,Atlas,True,,heuristics,gauss_trsh_cleanup,11060
+rmg_rxn_524,Atlas,True,,heuristics,gauss_trsh_cleanup,37265
+rmg_rxn_1189,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,147528
+rmg_rxn_32,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,114408
+rmg_rxn_19,Atlas,True,,heuristics,gauss_trsh_cleanup,35698
+rmg_rxn_173,Atlas,True,,heuristics,gauss_trsh_cleanup,16653
+rmg_rxn_1202,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,614498
+rmg_rxn_157,Atlas,True,,heuristics,gauss_trsh_cleanup,60162
+rmg_rxn_391,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,10158
+rmg_rxn_1140,Atlas,False,Could not determine likely TS conformer,,crest_nmd,36558
+rmg_rxn_169,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,27269
+rmg_rxn_63,Atlas,True,,heuristics,gauss_trsh_cleanup,62176
+rmg_rxn_34,Atlas,True,,heuristics,gauss_trsh_cleanup,136405
+rmg_rxn_49,Atlas,True,,autotst,gauss_trsh_cleanup,46930
+rmg_rxn_253,Atlas,True,,autotst,gauss_trsh_cleanup,91378
+rmg_rxn_4,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,96956
+rmg_rxn_1058,Atlas,False,Could not determine likely TS conformer,,crest_nmd,125881
+rmg_rxn_172,Atlas,True,,heuristics,gauss_trsh_cleanup,16536
+rmg_rxn_239,Atlas,True,,heuristics,gauss_trsh_cleanup,25395
+rmg_rxn_745,Atlas,False,Could not determine likely TS conformer,,crest,25475
+rmg_rxn_614,Atlas,True,,heuristics,gauss_trsh_cleanup,9747
+rmg_rxn_158,Atlas,True,,heuristics,gauss_trsh_cleanup,58273
+rmg_rxn_51,Atlas,True,,heuristics,gauss_trsh_cleanup,20916
+rmg_rxn_36,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,17915
+rmg_rxn_198,Atlas,True,,heuristics,gauss_trsh_cleanup,35607
+rmg_rxn_550,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,18279
+rmg_rxn_1161,Atlas,True,,heuristics,crest_nmd,7919
+rmg_rxn_272,Atlas,True,,heuristics,gauss_trsh_cleanup,50659
+rmg_rxn_505,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,13184
+rmg_rxn_338,Atlas,True,,heuristics,gauss_trsh_cleanup,69720
+rmg_rxn_547,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,52525
+rmg_rxn_675,Atlas,True,,heuristics,crest,26128
+rmg_rxn_270,Atlas,True,"Reactant or Product did not converge, but TS did",autotst,gauss_trsh_cleanup,98238
+rmg_rxn_1160,Atlas,True,,heuristics,crest_nmd,10650
+rmg_rxn_1142,Atlas,True,,heuristics,crest_nmd,9748
+rmg_rxn_685,Atlas,False,Could not determine likely TS conformer,,crest,61261
+rmg_rxn_246,Atlas,True,,heuristics,gauss_trsh_cleanup,55820
+rmg_rxn_39,Atlas,True,,heuristics,gauss_trsh_cleanup,35437
+rmg_rxn_737,Atlas,False,Could not determine likely TS conformer,,crest,28716
+rmg_rxn_527,Atlas,True,,heuristics,gauss_trsh_cleanup,101769
+rmg_rxn_671,Atlas,True,,heuristics,crest,145830
+rmg_rxn_389,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,38384
+rmg_rxn_355,Atlas,True,,heuristics,gauss_trsh_cleanup,30229
+rmg_rxn_62,Atlas,True,,heuristics,gauss_trsh_cleanup,40814
+rmg_rxn_588,Atlas,True,,heuristics,gauss_trsh_cleanup,53610
+rmg_rxn_767,Atlas,False,Could not determine likely TS conformer,,crest,13094
+rmg_rxn_40,Atlas,True,,heuristics,gauss_trsh_cleanup,74990
+rmg_rxn_326,Atlas,True,,heuristics,gauss_trsh_cleanup,44962
+rmg_rxn_515,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,25439
+rmg_rxn_304,Atlas,True,,heuristics,gauss_trsh_cleanup,225254
+rmg_rxn_1157,Atlas,True,,heuristics,crest_nmd,26920
+rmg_rxn_757,Atlas,False,Could not determine likely TS conformer,,crest,8056
+rmg_rxn_402,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,105453
+rmg_rxn_170,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,13039
+rmg_rxn_660,Atlas,True,,heuristics,crest,34503
+rmg_rxn_683,Atlas,True,,heuristics,crest,39614
+rmg_rxn_55,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,104871
+rmg_rxn_209,Atlas,True,,heuristics,gauss_trsh_cleanup,71100
+rmg_rxn_237,Atlas,True,,heuristics,gauss_trsh_cleanup,43184
+rmg_rxn_225,Atlas,True,,heuristics,gauss_trsh_cleanup,62306
+rmg_rxn_267,Atlas,True,,heuristics,gauss_trsh_cleanup,89421
+rmg_rxn_89,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,9046
+rmg_rxn_235,Atlas,True,,heuristics,gauss_trsh_cleanup,33851
+rmg_rxn_689,Atlas,True,,heuristics,crest,27821
+rmg_rxn_647,Atlas,True,,heuristics,crest,17937
+rmg_rxn_171,Atlas,True,,heuristics,gauss_trsh_cleanup,13039
+rmg_rxn_1066,Atlas,True,,heuristics,crest_nmd,8066
+rmg_rxn_213,Atlas,True,,heuristics,gauss_trsh_cleanup,48487
+rmg_rxn_759,Atlas,False,Could not determine likely TS conformer,,crest,16369
+rmg_rxn_16,Atlas,True,,heuristics,gauss_trsh_cleanup,15226
+rmg_rxn_691,Atlas,True,,heuristics,crest,13979
+rmg_rxn_1040,Atlas,False,Could not determine likely TS conformer,,crest,42635
+rmg_rxn_238,Atlas,True,,heuristics,gauss_trsh_cleanup,55623
+rmg_rxn_20,Atlas,True,,heuristics,gauss_trsh_cleanup,89941
+rmg_rxn_219,Atlas,True,,heuristics,gauss_trsh_cleanup,15861
+rmg_rxn_632,Atlas,True,,heuristics,gauss_trsh_cleanup,42407
+rmg_rxn_56,Atlas,True,,heuristics,gauss_trsh_cleanup,20000
+rmg_rxn_1150,Atlas,True,,heuristics,crest_nmd,8105
+rmg_rxn_640,Atlas,True,,heuristics,crest,41937
+rmg_rxn_1067,Atlas,False,Could not determine likely TS conformer,,crest_nmd,264867
+rmg_rxn_47,Atlas,True,,heuristics,gauss_trsh_cleanup,38751
+rmg_rxn_6,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,25412
+rmg_rxn_387,Atlas,True,"Reactant or Product did not converge, but TS did",autotst,gauss_trsh_cleanup,13417
+rmg_rxn_657,Atlas,True,,heuristics,crest,25749
+rmg_rxn_1206,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,1220906
+rmg_rxn_525,Atlas,True,,heuristics,gauss_trsh_cleanup,28522
+rmg_rxn_761,Atlas,False,Could not determine likely TS conformer,,crest,7017
+rmg_rxn_628,Atlas,True,,heuristics,gauss_trsh_cleanup,43834
+rmg_rxn_233,Atlas,True,,heuristics,gauss_trsh_cleanup,37622
+rmg_rxn_180,Atlas,True,,heuristics,gauss_trsh_cleanup,47732
+rmg_rxn_258,Atlas,True,,heuristics,gauss_trsh_cleanup,60384
+rmg_rxn_539,Atlas,True,,heuristics,gauss_trsh_cleanup,14315
+rmg_rxn_35,Atlas,True,,heuristics,gauss_trsh_cleanup,18228
+rmg_rxn_405,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,79255
+rmg_rxn_649,Atlas,False,Could not determine likely TS conformer,,crest,26433
+rmg_rxn_371,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,30651
+rmg_rxn_499,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,27002
+rmg_rxn_1146,Atlas,True,,heuristics,crest_nmd,2485
+rmg_rxn_323,Atlas,True,,heuristics,gauss_trsh_cleanup,71905
+rmg_rxn_362,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,68370
+rmg_rxn_307,Atlas,True,,heuristics,gauss_trsh_cleanup,25211
+rmg_rxn_1199,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,275383
+rmg_rxn_511,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,23452
+rmg_rxn_688,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest,21005
+rmg_rxn_353,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,2797
+rmg_rxn_677,Atlas,True,,heuristics,crest,7341
+rmg_rxn_388,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,10842
+rmg_rxn_373,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,65882
+rmg_rxn_48,Atlas,True,,heuristics,gauss_trsh_cleanup,37956
+rmg_rxn_30,Atlas,True,,heuristics,gauss_trsh_cleanup,19985
+rmg_rxn_211,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,221182
+rmg_rxn_271,Atlas,True,,heuristics,gauss_trsh_cleanup,11265
+rmg_rxn_530,Atlas,True,,heuristics,gauss_trsh_cleanup,35786
+rmg_rxn_156,Atlas,True,,heuristics,gauss_trsh_cleanup,79974
+rmg_rxn_1212,Atlas,False,Could not determine likely TS conformer,,debug_statement,52168
+rmg_rxn_392,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,46068
+rmg_rxn_365,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,21197
+rmg_rxn_1221,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,debug_statement,36829
+rmg_rxn_26,Atlas,True,,heuristics,gauss_trsh_cleanup,14107
+rmg_rxn_292,Atlas,True,,heuristics,gauss_trsh_cleanup,90990
+rmg_rxn_1051,Atlas,False,Could not determine likely TS conformer,,crest_nmd,11225
+rmg_rxn_587,Atlas,True,,heuristics,gauss_trsh_cleanup,18486
+rmg_rxn_378,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,40519
+rmg_rxn_368,Atlas,True,,heuristics,gauss_trsh_cleanup,18463
+rmg_rxn_230,Atlas,True,,heuristics,gauss_trsh_cleanup,49596
+rmg_rxn_197,Atlas,True,,heuristics,gauss_trsh_cleanup,32345
+rmg_rxn_1144,Atlas,False,Could not determine likely TS conformer,,crest_nmd,189954
+rmg_rxn_682,Atlas,True,,autotst,crest,370897
+rmg_rxn_342,Atlas,True,,heuristics,gauss_trsh_cleanup,38677
+rmg_rxn_379,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,21023
+rmg_rxn_676,Atlas,True,,heuristics,crest,32041
+rmg_rxn_268,Atlas,True,,autotst,gauss_trsh_cleanup,207338
+rmg_rxn_177,Atlas,True,,heuristics,gauss_trsh_cleanup,18507
+rmg_rxn_544,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,108135
+rmg_rxn_234,Atlas,True,,heuristics,gauss_trsh_cleanup,67292
+rmg_rxn_1129,Atlas,True,,heuristics,crest_nmd,6761
+rmg_rxn_212,Atlas,True,,heuristics,gauss_trsh_cleanup,39702
+rmg_rxn_1167,Atlas,False,Could not determine likely TS conformer,,crest_nmd,10052
+rmg_rxn_273,Atlas,True,,heuristics,gauss_trsh_cleanup,44227
+rmg_rxn_605,Atlas,True,,heuristics,gauss_trsh_cleanup,16686
+rmg_rxn_23,Atlas,True,,heuristics,gauss_trsh_cleanup,33922
+rmg_rxn_303,Atlas,True,,heuristics,gauss_trsh_cleanup,267478
+rmg_rxn_528,Atlas,True,,heuristics,gauss_trsh_cleanup,26300
+rmg_rxn_1042,Atlas,False,Could not determine likely TS conformer,,crest_nmd,8285
+rmg_rxn_382,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,32426
+rmg_rxn_290,Atlas,True,,heuristics,gauss_trsh_cleanup,96523
+rmg_rxn_1203,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,241014
+rmg_rxn_754,Atlas,False,Could not determine likely TS conformer,,crest,10365
+rmg_rxn_274,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,211867
+rmg_rxn_1036,Atlas,False,Could not determine likely TS conformer,,crest,85069
+rmg_rxn_424,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,35958
+rmg_rxn_531,Atlas,True,,heuristics,gauss_trsh_cleanup,35453
+rmg_rxn_520,Atlas,True,,heuristics,gauss_trsh_cleanup,16126
+rmg_rxn_1060,Atlas,False,Could not determine likely TS conformer,,crest_nmd,15913
+rmg_rxn_742,Atlas,False,Could not determine likely TS conformer,,crest,35653
+rmg_rxn_376,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,118066
+rmg_rxn_1152,Atlas,True,,heuristics,crest_nmd,26006
+rmg_rxn_513,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,8608
+rmg_rxn_1043,Atlas,False,Could not determine likely TS conformer,,crest_nmd,360959
+rmg_rxn_1191,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,564804
+rmg_rxn_380,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,10411
+rmg_rxn_77,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,3093
+rmg_rxn_1125,Atlas,False,Could not determine likely TS conformer,,crest_nmd,81709
+rmg_rxn_14,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,31113
+rmg_rxn_1195,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,8917
+rmg_rxn_639,Atlas,False,Could not determine likely TS conformer,,crest,75483
+rmg_rxn_410,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,74521
+rmg_rxn_82,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,41428
+rmg_rxn_336,Atlas,True,,heuristics,gauss_trsh_cleanup,50746
+rmg_rxn_1063,Atlas,False,Could not determine likely TS conformer,,crest_nmd,86589
+rmg_rxn_50,Atlas,True,,heuristics,gauss_trsh_cleanup,25815
+rmg_rxn_669,Atlas,True,,heuristics,crest,84749
+rmg_rxn_1054,Atlas,True,,heuristics,crest_nmd,158699
+rmg_rxn_1154,Atlas,True,,heuristics,crest_nmd,16012
+rmg_rxn_275,Atlas,True,,heuristics,gauss_trsh_cleanup,152440
+rmg_rxn_45,Atlas,True,,heuristics,gauss_trsh_cleanup,21718
+rmg_rxn_252,Atlas,True,,heuristics,gauss_trsh_cleanup,187752
+rmg_rxn_633,Atlas,True,,heuristics,gauss_trsh_cleanup,36157
+rmg_rxn_1046,Atlas,False,Could not determine likely TS conformer,,crest_nmd,65743
+rmg_rxn_1156,Atlas,True,,autotst,crest_nmd,92744
+rmg_rxn_17,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,63407
+rmg_rxn_390,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,23338
+rmg_rxn_1151,Atlas,False,Could not determine likely TS conformer,,crest_nmd,15969
+rmg_rxn_665,Atlas,True,,heuristics,crest,93424
+rmg_rxn_372,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,43576
+rmg_rxn_367,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,28223
+rmg_rxn_758,Atlas,False,Could not determine likely TS conformer,,crest,32014
+rmg_rxn_514,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,11056
+rmg_rxn_240,Atlas,True,,heuristics,gauss_trsh_cleanup,21525
+rmg_rxn_296,Atlas,True,,heuristics,gauss_trsh_cleanup,92920
+rmg_rxn_218,Atlas,True,,heuristics,gauss_trsh_cleanup,45690
+rmg_rxn_94,Atlas,True,,heuristics,gauss_trsh_cleanup,20181
+rmg_rxn_1209,Atlas,False,Could not determine likely TS conformer,,debug_statement,40798
+rmg_rxn_507,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,8270
+rmg_rxn_3,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,24048
+rmg_rxn_1198,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,381039
+rmg_rxn_31,Atlas,True,,heuristics,gauss_trsh_cleanup,22192
+rmg_rxn_586,Atlas,True,,heuristics,gauss_trsh_cleanup,23351
+rmg_rxn_634,Atlas,True,,heuristics,gauss_trsh_cleanup,71024
+rmg_rxn_59,Atlas,True,,heuristics,gauss_trsh_cleanup,249236
+rmg_rxn_297,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,101515
+rmg_rxn_320,Atlas,True,,heuristics,gauss_trsh_cleanup,154127
+rmg_rxn_43,Atlas,True,,heuristics,gauss_trsh_cleanup,26876
+rmg_rxn_350,Atlas,True,,heuristics,gauss_trsh_cleanup,35319
+rmg_rxn_1204,Atlas,False,Could not determine likely TS conformer,,crest_nmd,806691
+rmg_rxn_22,Atlas,True,,heuristics,gauss_trsh_cleanup,15236
+rmg_rxn_375,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,gauss_trsh_cleanup,179747
+rmg_rxn_1357,Atlas,False,Could not determine likely TS conformer,,(HEAD detached at 7b8e561d),73214
+rmg_rxn_733,Atlas,False,Could not determine likely TS conformer,,crest,29660
+rmg_rxn_666,Atlas,True,,heuristics,crest,106641
+rmg_rxn_1201,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,985321
+rmg_rxn_176,Atlas,True,,heuristics,gauss_trsh_cleanup,38676
+rmg_rxn_301,Atlas,True,,heuristics,gauss_trsh_cleanup,19132
+rmg_rxn_37,Atlas,True,,heuristics,gauss_trsh_cleanup,54691
+rmg_rxn_340,Atlas,True,,heuristics,gauss_trsh_cleanup,65120
+rmg_rxn_345,Atlas,True,,heuristics,gauss_trsh_cleanup,21214
+rmg_rxn_354,Atlas,True,,heuristics,gauss_trsh_cleanup,29946
+rmg_rxn_192,Atlas,True,,heuristics,gauss_trsh_cleanup,51274
+rmg_rxn_337,Atlas,True,,heuristics,gauss_trsh_cleanup,47165
+rmg_rxn_769,Atlas,False,Could not determine likely TS conformer,,crest,29059
+rmg_rxn_217,Atlas,True,,heuristics,gauss_trsh_cleanup,46260
+rmg_rxn_747,Atlas,False,Could not determine likely TS conformer,,crest,31081
+rmg_rxn_28,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,158762
+rmg_rxn_159,Atlas,True,,heuristics,gauss_trsh_cleanup,26955
+rmg_rxn_744,Atlas,False,Could not determine likely TS conformer,,crest,40218
+rmg_rxn_78,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,4304
+rmg_rxn_755,Atlas,False,Could not determine likely TS conformer,,crest,7936
+rmg_rxn_519,Atlas,True,,heuristics,gauss_trsh_cleanup,46761
+rmg_rxn_739,Atlas,False,Could not determine likely TS conformer,,crest,37518
+rmg_rxn_293,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,21578
+rmg_rxn_653,Atlas,True,,heuristics,crest,41399
+rmg_rxn_195,Atlas,True,,heuristics,gauss_trsh_cleanup,58800
+rmg_rxn_27,Atlas,True,,heuristics,gauss_trsh_cleanup,201323
+rmg_rxn_1148,Atlas,True,,heuristics,crest_nmd,6144
+rmg_rxn_541,Atlas,True,,heuristics,gauss_trsh_cleanup,18891
+rmg_rxn_417,Atlas,True,,heuristics,gauss_trsh_cleanup,3705
+rmg_rxn_250,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,52759
+rmg_rxn_278,Atlas,True,,heuristics,gauss_trsh_cleanup,55837
+rmg_rxn_214,Atlas,True,,heuristics,gauss_trsh_cleanup,48333
+rmg_rxn_500,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,21714
+rmg_rxn_8,Atlas,True,,heuristics,gauss_trsh_cleanup,43228
+rmg_rxn_98,Atlas,True,,heuristics,gauss_trsh_cleanup,9513
+rmg_rxn_543,Atlas,True,,heuristics,gauss_trsh_cleanup,86632
+rmg_rxn_298,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,66565
+rmg_rxn_1032,Atlas,False,Could not determine likely TS conformer,,crest,58483
+rmg_rxn_324,Atlas,True,,heuristics,gauss_trsh_cleanup,29774
+rmg_rxn_422,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,21007
+rmg_rxn_54,Atlas,True,,heuristics,gauss_trsh_cleanup,77608
+rmg_rxn_1175,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,34567
+rmg_rxn_21,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,10764
+rmg_rxn_260,Atlas,True,,heuristics,gauss_trsh_cleanup,9420
+rmg_rxn_312,Atlas,True,,heuristics,gauss_trsh_cleanup,20075
+rmg_rxn_64,Atlas,True,,autotst,gauss_trsh_cleanup,77181
+rmg_rxn_1192,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,1110830
+rmg_rxn_526,Atlas,True,,heuristics,gauss_trsh_cleanup,31409
+rmg_rxn_1069,Atlas,False,Could not determine likely TS conformer,,crest_nmd,257910
+rmg_rxn_15,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,26577
+rmg_rxn_208,Atlas,True,,heuristics,gauss_trsh_cleanup,23593
+rmg_rxn_259,Atlas,True,,heuristics,gauss_trsh_cleanup,613972
+rmg_rxn_1052,Atlas,False,Could not determine likely TS conformer,,crest_nmd,19113
+rmg_rxn_591,Atlas,True,,heuristics,gauss_trsh_cleanup,24896
+rmg_rxn_1190,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,444163
+rmg_rxn_765,Atlas,False,Could not determine likely TS conformer,,crest,16379
+rmg_rxn_83,Atlas,True,,heuristics,gauss_trsh_cleanup,16670
+rmg_rxn_659,Atlas,True,,heuristics,crest,35753
+rmg_rxn_165,Atlas,True,,heuristics,gauss_trsh_cleanup,19420
+rmg_rxn_42,Atlas,True,,heuristics,gauss_trsh_cleanup,43467
+rmg_rxn_1133,Atlas,False,Could not determine likely TS conformer,,crest_nmd,65754
+rmg_rxn_681,Atlas,True,,heuristics,crest,40619
+rmg_rxn_631,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,21816
+rmg_rxn_664,Atlas,True,,heuristics,crest,24572
+rmg_rxn_344,Atlas,True,,heuristics,gauss_trsh_cleanup,25101
+rmg_rxn_629,Atlas,True,,heuristics,gauss_trsh_cleanup,51645
+rmg_rxn_404,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,54589
+rmg_rxn_679,Atlas,False,Could not determine likely TS conformer,,crest,117760
+rmg_rxn_750,Atlas,False,Could not determine likely TS conformer,,crest,27284
+rmg_rxn_617,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,22449
+rmg_rxn_411,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,46637
+rmg_rxn_1211,Atlas,False,Could not determine likely TS conformer,,debug_statement,114780
+rmg_rxn_321,Atlas,True,,heuristics,gauss_trsh_cleanup,178906
+rmg_rxn_412,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,49796
+rmg_rxn_269,Atlas,True,,heuristics,gauss_trsh_cleanup,109142
+rmg_rxn_645,Atlas,True,,heuristics,crest,46715
+rmg_rxn_512,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,27921
+rmg_rxn_188,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,20015
+rmg_rxn_276,Atlas,True,,heuristics,gauss_trsh_cleanup,110131
+rmg_rxn_1216,Atlas,False,Could not determine likely TS conformer,,debug_statement,3386
+rmg_rxn_670,Atlas,True,,heuristics,crest,27958
+rmg_rxn_1143,Atlas,False,Could not determine likely TS conformer,,crest_nmd,52125
+rmg_rxn_38,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,31998
+rmg_rxn_247,Atlas,True,,heuristics,gauss_trsh_cleanup,286248
+rmg_rxn_394,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,gauss_trsh_cleanup,14455
+rmg_rxn_1158,Atlas,False,Could not determine likely TS conformer,,crest_nmd,36790
+rmg_rxn_760,Atlas,True,"Reactant or Product did not converge, but TS did",autotst,crest,8261
+rmg_rxn_251,Atlas,True,,heuristics,gauss_trsh_cleanup,23981
+rmg_rxn_81,Atlas,True,,heuristics,gauss_trsh_cleanup,14063
+rmg_rxn_84,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,8838
+rmg_rxn_522,Atlas,True,,heuristics,gauss_trsh_cleanup,30010
+rxn_3239,Atlas,True,,heuristics,gauss_trsh_cleanup,7919
+rxn_3244,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,102089
+rxn_3227,Atlas,True,,heuristics,gauss_trsh_cleanup,29873
+rxn_3218,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,106540
+rxn_3232,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,67818
+rxn_3205,Atlas,True,,heuristics,gauss_trsh_cleanup,5210
+rxn_3142,Atlas,True,,heuristics,gauss_trsh_cleanup,47292
+rxn_3247,Atlas,True,,heuristics,gauss_trsh_cleanup,25978
+rxn_3234,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,76631
+rxn_3242,Atlas,True,,heuristics,gauss_trsh_cleanup,39222
+rxn_3220,Atlas,True,,heuristics,gauss_trsh_cleanup,5508
+rxn_3193,Atlas,True,,heuristics,gauss_trsh_cleanup,248686
+rxn_3203,Atlas,True,,heuristics,gauss_trsh_cleanup,80084
+rxn_3221,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,16614
+rxn_3164,Atlas,True,,heuristics,gauss_trsh_cleanup,10577
+rxn_3206,Atlas,True,,heuristics,gauss_trsh_cleanup,4307
+rxn_3132,Atlas,True,,heuristics,gauss_trsh_cleanup,6143
+rxn_3207,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,6713
+rxn_3213,Atlas,True,,heuristics,gauss_trsh_cleanup,18758
+rxn_3186,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,34056
+rxn_3171,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,22887
+rxn_3223,Atlas,True,,heuristics,gauss_trsh_cleanup,19669
+rxn_3238,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,78329
+rxn_3216,Atlas,True,,heuristics,gauss_trsh_cleanup,13356
+rxn_3128,Atlas,True,,heuristics,gauss_trsh_cleanup,4880
+rxn_3233,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,13251
+rxn_3212,Atlas,True,,heuristics,gauss_trsh_cleanup,13667
+rxn_3217,Atlas,True,,heuristics,gauss_trsh_cleanup,6408
+rxn_3158,Atlas,True,,heuristics,gauss_trsh_cleanup,10677
+rxn_3184,Atlas,True,,heuristics,gauss_trsh_cleanup,24154
+rxn_3236,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,160193
+rxn_3210,Atlas,True,,heuristics,gauss_trsh_cleanup,4002
+rxn_3156,Atlas,True,,heuristics,gauss_trsh_cleanup,4425
+rxn_3248,Atlas,True,,heuristics,gauss_trsh_cleanup,19961
+rxn_3208,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,8799
+rxn_3246,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,124993
+rxn_3126,Atlas,True,,heuristics,gauss_trsh_cleanup,115101
+rxn_3199,Atlas,True,,heuristics,gauss_trsh_cleanup,237216
+rxn_3197,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,473253
+rxn_3178,Atlas,True,,heuristics,gauss_trsh_cleanup,9268
+rxn_3249,Atlas,True,,heuristics,gauss_trsh_cleanup,70527
+rxn_3174,Atlas,True,,heuristics,gauss_trsh_cleanup,32413
+rxn_3230,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,129170
+rxn_3219,Atlas,True,,heuristics,gauss_trsh_cleanup,15474
+rxn_3148,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,13051
+rxn_3201,Atlas,True,,heuristics,gauss_trsh_cleanup,209065
+rxn_3161,Atlas,True,,heuristics,gauss_trsh_cleanup,43937
+rxn_3129,Atlas,True,,heuristics,gauss_trsh_cleanup,24980
+rxn_3180,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,135056
+rxn_3160,Atlas,True,,heuristics,gauss_trsh_cleanup,126042
+rxn_3224,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,92187
+rxn_3120,Atlas,True,,heuristics,gauss_trsh_cleanup,3520
+rxn_3226,Atlas,True,,heuristics,gauss_trsh_cleanup,6712
+rxn_3228,Atlas,True,,heuristics,gauss_trsh_cleanup,57886
+rxn_3240,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,25662
+rxn_3229,Atlas,True,,heuristics,gauss_trsh_cleanup,8823
+rxn_3237,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,54291
+rxn_3222,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,17823
+rxn_3166,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,19762
+rxn_3118,Atlas,True,,heuristics,gauss_trsh_cleanup,5316
+rxn_3152,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,65286
+rxn_3170,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,17457
+rxn_3330,Atlas,False,Opt did not pass isomorphism check,,gauss_trsh_cleanup,11557
+rxn_3211,Atlas,True,,heuristics,gauss_trsh_cleanup,9448
+rxn_3215,Atlas,True,,heuristics,gauss_trsh_cleanup,5824
+rxn_3243,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,64830
+rmg_rxn_103,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_885,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_110,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_815,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1290,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_856,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_862,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_875,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1277,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_886,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_160,Atlas,False,Disk quota exceeded,,gauss_trsh_cleanup,
+rmg_rxn_131,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_966,Atlas,False,No relevant information found,,crest,
+rmg_rxn_694,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_813,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_889,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_620,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_961,Atlas,False,No relevant information found,,crest,
+rmg_rxn_144,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_135,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_139,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_812,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_426,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1286,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1168,Atlas,False,Product mol combinations - Heuristics,,crest_nmd,
+rmg_rxn_848,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_890,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1309,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_132,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_955,Atlas,False,No relevant information found,,crest,
+rmg_rxn_1181,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest_nmd,
+rmg_rxn_1283,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_147,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1279,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_104,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_305,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_887,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1272,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1300,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_138,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_69,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1273,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_894,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_854,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1208,Atlas,False,List index out of range,,debug_statement,
+rmg_rxn_1285,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_967,Atlas,False,No relevant information found,,crest,
+rmg_rxn_1294,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1064,Atlas,False,Text file busy,,crest_nmd,
+rmg_rxn_1291,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_551,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_839,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1073,Atlas,False,Reactant mol combinations - Heuristics,,crest_nmd,
+rmg_rxn_122,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1114,Atlas,False,Text file busy,,crest_nmd,
+rmg_rxn_148,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1217,Atlas,False,Reactant mol combinations - Heuristics,,debug_statement,
+rmg_rxn_105,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_126,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_72,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1284,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_107,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_118,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_964,Atlas,False,No relevant information found,,crest,
+rmg_rxn_877,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_836,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1196,Atlas,False,Could not atom map reactants and products - TS Error,,crest_nmd,
+rmg_rxn_108,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_149,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_857,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_585,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1295,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_858,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1186,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest_nmd,
+rmg_rxn_117,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_874,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1172,Atlas,False,Product mol combinations - Heuristics,,crest_nmd,
+rmg_rxn_876,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_120,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1274,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_820,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_141,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_867,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_832,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_846,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_892,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest,
+rmg_rxn_849,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_121,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_66,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1276,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1299,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_897,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1045,Atlas,False,Could not atom map reactants and products - TS Error,,crest_nmd,
+rmg_rxn_1312,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_67,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1055,Atlas,False,Could not atom map reactants and products - TS Error,,crest_nmd,
+rmg_rxn_771,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_1215,Atlas,False,Reactant mol combinations - Heuristics,,debug_statement,
+rmg_rxn_1308,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_834,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_111,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1030,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_844,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_817,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_840,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_732,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_106,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_181,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_134,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_116,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_68,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_863,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1145,Atlas,False,Reactants and products are not atom balanced,,crest_nmd,
+rmg_rxn_896,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_871,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_74,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1099,Atlas,False,Reactants and products are not atom balanced,,crest_nmd,
+rmg_rxn_129,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_693,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_137,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_895,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_1296,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1187,Atlas,False,Could not atom map reactants and products - TS Error,,crest_nmd,
+rmg_rxn_838,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_814,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1298,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1288,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_486,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1302,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_824,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_140,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_119,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_75,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1303,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_145,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1287,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_833,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1281,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_143,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_853,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_792,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_115,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_88,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_1275,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_822,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_821,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_70,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_73,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_868,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest,
+rmg_rxn_1178,Atlas,False,Could not atom map reactants and products - TS Error,,crest_nmd,
+rmg_rxn_818,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_855,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_829,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_826,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_155,Atlas,False,Disk quota exceeded,,gauss_trsh_cleanup,
+rmg_rxn_114,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_852,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1166,Atlas,False,Reactant mol combinations - Heuristics,,crest_nmd,
+rmg_rxn_369,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_101,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_884,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_123,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_878,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_870,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_847,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_397,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_843,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1313,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_899,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1180,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest_nmd,
+rmg_rxn_125,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_831,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_859,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_837,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_130,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1301,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_968,Atlas,False,No relevant information found,,crest,
+rmg_rxn_142,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1072,Atlas,False,Reactant mol combinations - Heuristics,,crest_nmd,
+rmg_rxn_1139,Atlas,True,,heuristics,crest_nmd,
+rmg_rxn_1194,Atlas,False,Reactants and products are not atom balanced,,crest_nmd,
+rmg_rxn_898,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_869,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_113,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1306,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_133,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_146,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_942,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_954,Atlas,False,No relevant information found,,crest,
+rmg_rxn_656,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_1029,Atlas,False,Reactants and products are not atom balanced,,crest,
+rmg_rxn_891,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1305,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1304,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1184,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest_nmd,
+rmg_rxn_819,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_162,Atlas,False,Disk quota exceeded,,gauss_trsh_cleanup,
+rmg_rxn_823,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_71,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_816,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1243,Atlas,False,Reactants and products are not atom balanced,,debug_statement,
+rmg_rxn_1278,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_127,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1111,Atlas,False,Text file busy,,crest_nmd,
+rmg_rxn_124,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1110,Atlas,False,Text file busy,,crest_nmd,
+rmg_rxn_965,Atlas,False,No relevant information found,,crest,
+rmg_rxn_860,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_850,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1292,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_893,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_1280,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1293,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_861,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1074,Atlas,False,Could not atom map reactants and products - TS Error,,crest_nmd,
+rmg_rxn_1182,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest_nmd,
+rmg_rxn_109,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_851,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_128,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_825,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1289,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1077,Atlas,False,Reactants and products are not atom balanced,,crest_nmd,
+rmg_rxn_1179,Atlas,False,Could not troubleshoot geometry optimization of reactants or products,,crest_nmd,
+rmg_rxn_888,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_882,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1282,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1311,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_518,Atlas,False,Reactants and products are not atom balanced,,gauss_trsh_cleanup,
+rmg_rxn_872,Atlas,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_1310,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_112,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_136,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
+rmg_rxn_1297,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_1307,Atlas,False,Reactants and products are not atom balanced,,crest_debug_statement,
+rmg_rxn_864,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_881,Atlas,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_150,Atlas,False,Could not interpret the identifier,,gauss_trsh_cleanup,
