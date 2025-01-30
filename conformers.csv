@@ -1,6 +1,0 @@
-TS,Conformer,Status,Methods
-TS0,Conformer 0,SUCCESS,
-TS0,Conformer 1,SUCCESS,
-TS0,Conformer 2,SUCCESS,
-TS0,Conformer 3,SUCCESS,
-TS0,Conformer 4,FAILED,"int=(Acc2E=14), scf=(qc), NoSymm, cartesian, opt=(maxcycle=200), opt=(RFO), all_attempted"

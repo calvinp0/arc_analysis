@@ -1388,120 +1388,141 @@ rxn_319,Zeus,True,,heuristics,qchem,3698
 rxn_1089,Zeus,True,,heuristics,qchem,28633
 rxn_373,Zeus,True,,heuristics,qchem,4628
 rxn_612,Zeus,True,,heuristics,qchem,81212
-rmg_rxn_16580,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16332,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10846
+rmg_rxn_16580,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,380
 rmg_rxn_16518,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1305
-rmg_rxn_16594,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16594,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,350
 rmg_rxn_16418,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11311
+rmg_rxn_16277,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,24169
 rmg_rxn_16384,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12140
-rmg_rxn_16703,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16703,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16506,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16766,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16323,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10805
+rmg_rxn_16766,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,329
 rmg_rxn_16354,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11544
 rmg_rxn_16723,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,2797
 rmg_rxn_16597,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16807,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16627,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,4633
+rmg_rxn_16341,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10495
 rmg_rxn_16718,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2495
-rmg_rxn_16716,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16716,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,610
+rmg_rxn_16263,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,15833
 rmg_rxn_16420,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11123
-rmg_rxn_16722,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16342,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16722,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,388
+rmg_rxn_16342,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10249
 rmg_rxn_16650,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16788,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2901
 rmg_rxn_16538,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,1018
 rmg_rxn_16669,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4993
-rmg_rxn_16545,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16545,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1493
 rmg_rxn_16813,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,47008
 rmg_rxn_16427,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,33567
 rmg_rxn_16630,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4353
-rmg_rxn_16471,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16471,Zeus,True,,heuristics,crest,24712
 rmg_rxn_16725,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8459
 rmg_rxn_16717,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1257
 rmg_rxn_16402,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10895
-rmg_rxn_16740,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16486,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16740,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,916
+rmg_rxn_16486,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16654,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16453,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12000
 rmg_rxn_16460,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16499,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16691,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16499,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,809
+rmg_rxn_16691,Zeus,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_16316,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10519
 rmg_rxn_16484,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16296,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1083
 rmg_rxn_16490,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1280
 rmg_rxn_16787,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3465
 rmg_rxn_16693,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16763,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16759,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
-rmg_rxn_16762,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16763,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2616
+rmg_rxn_16759,Zeus,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_16762,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1233
 rmg_rxn_16391,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11232
 rmg_rxn_16738,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16780,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16780,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,264
 rmg_rxn_16509,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3470
 rmg_rxn_16350,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10534
 rmg_rxn_16640,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16588,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16588,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,757
+rmg_rxn_16304,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,15057
 rmg_rxn_16532,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16476,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16476,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,401
 rmg_rxn_16811,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,106578
 rmg_rxn_16685,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4667
 rmg_rxn_16421,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11404
 rmg_rxn_16751,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16557,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16739,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16557,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,739
+rmg_rxn_16739,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16429,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11272
-rmg_rxn_16579,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16579,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,447
 rmg_rxn_16790,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8345
-rmg_rxn_16775,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16565,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16283,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1839
+rmg_rxn_16775,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,436
+rmg_rxn_16290,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,6474
+rmg_rxn_16565,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,293
 rmg_rxn_16582,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,5071
-rmg_rxn_16673,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16742,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16673,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,585
+rmg_rxn_16742,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,327
 rmg_rxn_16735,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16670,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3175
 rmg_rxn_16706,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16707,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1351
 rmg_rxn_16395,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11726
+rmg_rxn_16280,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1395
 rmg_rxn_16480,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16823,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16544,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16823,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,862
+rmg_rxn_16544,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,4981
 rmg_rxn_16439,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11163
 rmg_rxn_16362,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10255
 rmg_rxn_16376,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,15258
 rmg_rxn_16803,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16265,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,14613
 rmg_rxn_16682,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9225
-rmg_rxn_16536,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16560,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16596,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16752,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16309,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13840
+rmg_rxn_16536,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,676
+rmg_rxn_16560,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,5113
+rmg_rxn_16596,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,430
+rmg_rxn_16319,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11146
+rmg_rxn_16752,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,741
 rmg_rxn_16705,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16564,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16816,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16564,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,308
+rmg_rxn_16297,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2911
+rmg_rxn_16295,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,921
+rmg_rxn_16300,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13172
+rmg_rxn_16816,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,325
 rmg_rxn_16574,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2662
-rmg_rxn_16562,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16562,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,303
 rmg_rxn_16577,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1756
 rmg_rxn_16385,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13221
-rmg_rxn_16642,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16642,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,504
 rmg_rxn_16531,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16784,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9590
-rmg_rxn_16760,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16760,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,554
 rmg_rxn_16525,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16619,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,1963
 rmg_rxn_16694,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16724,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,2813
 rmg_rxn_16796,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16593,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16593,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,360
+rmg_rxn_16284,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1898
 rmg_rxn_16357,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11386
 rmg_rxn_16412,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,23285
+rmg_rxn_16264,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,10400
 rmg_rxn_16396,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11708
 rmg_rxn_16801,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16392,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11874
-rmg_rxn_16606,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16606,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,751
 rmg_rxn_16698,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16591,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2628
 rmg_rxn_16653,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16528,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16355,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11539
 rmg_rxn_16733,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,26512
+rmg_rxn_16285,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1878
 rmg_rxn_16442,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11145
+rmg_rxn_16286,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1324
 rmg_rxn_16684,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3478
 rmg_rxn_16372,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10545
 rmg_rxn_16804,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
@@ -1510,17 +1531,19 @@ rmg_rxn_16379,Zeus,False,No conformer was found to be isomorphic with the 2D gra
 rmg_rxn_16387,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13317
 rmg_rxn_16800,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16510,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16626,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16626,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,377
 rmg_rxn_16799,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16381,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13429
-rmg_rxn_16824,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16824,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10809
 rmg_rxn_16367,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11373
 rmg_rxn_16639,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16302,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12030
 rmg_rxn_16767,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1281
-rmg_rxn_16750,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16599,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16750,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2666
+rmg_rxn_16599,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,792
 rmg_rxn_16400,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11195
 rmg_rxn_16643,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16276,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,14561
 rmg_rxn_16746,Zeus,False,Opt did not pass isomorphism check,,crest_debug_statement,3092
 rmg_rxn_16388,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13637
 rmg_rxn_16755,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
@@ -1530,90 +1553,100 @@ rmg_rxn_16345,Zeus,False,No conformer was found to be isomorphic with the 2D gra
 rmg_rxn_16416,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11264
 rmg_rxn_16467,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16343,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10554
+rmg_rxn_16333,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9642
+rmg_rxn_16327,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10519
 rmg_rxn_16661,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8053
+rmg_rxn_16336,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10191
 rmg_rxn_16512,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16589,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16356,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11100
 rmg_rxn_16672,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16517,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16655,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16753,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16517,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1054
+rmg_rxn_16655,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2081
+rmg_rxn_16753,Zeus,True,,heuristics,crest,150875
 rmg_rxn_16769,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16638,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16638,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,382
 rmg_rxn_16349,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10518
 rmg_rxn_16411,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10940
 rmg_rxn_16358,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10801
 rmg_rxn_16537,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,1311
 rmg_rxn_16786,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16624,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
-rmg_rxn_16715,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16623,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16624,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,965
+rmg_rxn_16715,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,315
+rmg_rxn_16623,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1237
 rmg_rxn_16548,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16389,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13299
 rmg_rxn_16363,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10283
-rmg_rxn_16732,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16732,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1255
 rmg_rxn_16600,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1889
-rmg_rxn_16749,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16749,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2788
+rmg_rxn_16330,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10516
 rmg_rxn_16522,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16497,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16756,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16558,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16756,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,2745
+rmg_rxn_16558,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,403
 rmg_rxn_16501,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16603,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16603,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,485
 rmg_rxn_16452,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12539
-rmg_rxn_16581,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16581,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,903
 rmg_rxn_16797,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16485,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1309
+rmg_rxn_16321,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11379
 rmg_rxn_16662,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11694
 rmg_rxn_16737,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16351,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10874
 rmg_rxn_16680,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8031
 rmg_rxn_16465,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16696,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16696,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,297
 rmg_rxn_16699,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16613,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16658,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11131
 rmg_rxn_16408,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10753
+rmg_rxn_16262,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,18992
 rmg_rxn_16503,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16743,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16776,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16622,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16622,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1123
+rmg_rxn_16318,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10630
 rmg_rxn_16458,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12557
 rmg_rxn_16454,Zeus,False,Opt did not pass isomorphism check,,crest_debug_statement,109706
 rmg_rxn_16430,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10603
+rmg_rxn_16317,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10813
 rmg_rxn_16477,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
 rmg_rxn_16496,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16311,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11713
 rmg_rxn_16424,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11460
 rmg_rxn_16744,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,2786
 rmg_rxn_16731,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16521,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16798,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16798,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,55458
 rmg_rxn_16601,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2865
 rmg_rxn_16492,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2577
-rmg_rxn_16542,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16542,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,976
 rmg_rxn_16745,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16736,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16736,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1219
 rmg_rxn_16344,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11440
 rmg_rxn_16433,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11386
-rmg_rxn_16573,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16573,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,3668
 rmg_rxn_16778,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16457,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11962
 rmg_rxn_16572,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1892
-rmg_rxn_16652,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16652,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,424
 rmg_rxn_16808,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16373,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11958
 rmg_rxn_16534,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16610,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16610,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1508
+rmg_rxn_16292,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1423
 rmg_rxn_16559,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
 rmg_rxn_16370,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10880
 rmg_rxn_16428,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10176
 rmg_rxn_16817,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,14559
 rmg_rxn_16438,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10766
-rmg_rxn_16604,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16604,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,3799
 rmg_rxn_16633,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16495,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1422
 rmg_rxn_16422,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10825
-rmg_rxn_16614,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16614,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1139
 rmg_rxn_16493,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16386,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13518
 rmg_rxn_16526,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3814
@@ -1624,29 +1657,36 @@ rmg_rxn_16748,Zeus,False,No conformer was found to be isomorphic with the 2D gra
 rmg_rxn_16697,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16419,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12321
 rmg_rxn_16346,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10784
-rmg_rxn_16635,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16635,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest,427
+rmg_rxn_16310,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13816
 rmg_rxn_16348,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10663
 rmg_rxn_16709,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest_debug_statement,4456
-rmg_rxn_16770,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16758,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16267,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,14719
+rmg_rxn_16770,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,319
+rmg_rxn_16758,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,5073
 rmg_rxn_16793,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2197
-rmg_rxn_16550,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16550,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1274
 rmg_rxn_16519,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1389
 rmg_rxn_16741,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16325,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1285
 rmg_rxn_16369,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10829
 rmg_rxn_16571,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16380,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11859
+rmg_rxn_16273,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,26782
 rmg_rxn_16347,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10994
-rmg_rxn_16569,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16569,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1734
 rmg_rxn_16449,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11422
 rmg_rxn_16504,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16337,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9306
+rmg_rxn_16268,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,11333
+rmg_rxn_16278,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,22559
 rmg_rxn_16450,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11945
 rmg_rxn_16468,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16515,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16592,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16592,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,302
 rmg_rxn_16463,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16375,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12340
-rmg_rxn_16641,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16641,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,433
 rmg_rxn_16462,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16403,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10861
 rmg_rxn_16713,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
@@ -1654,56 +1694,63 @@ rmg_rxn_16447,Zeus,False,No conformer was found to be isomorphic with the 2D gra
 rmg_rxn_16812,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,88232
 rmg_rxn_16516,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16689,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16720,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16720,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,334
 rmg_rxn_16822,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16711,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16711,Zeus,False,Product mol combinations - Heuristics,,crest,
 rmg_rxn_16364,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10999
 rmg_rxn_16677,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8930
 rmg_rxn_16481,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16795,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16611,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16329,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10192
+rmg_rxn_16611,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,3347
 rmg_rxn_16806,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16507,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16772,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16547,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16779,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16281,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,15529
+rmg_rxn_16313,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11142
 rmg_rxn_16665,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,6826
 rmg_rxn_16406,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10811
 rmg_rxn_16359,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11421
-rmg_rxn_16487,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
-rmg_rxn_16540,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16487,Zeus,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_16540,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16809,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16666,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4983
 rmg_rxn_16394,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11137
 rmg_rxn_16489,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16553,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16553,Zeus,True,,heuristics,crest,40257
 rmg_rxn_16646,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16561,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16590,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16810,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16561,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,276
+rmg_rxn_16590,Zeus,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_16810,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,7390
+rmg_rxn_16288,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1187
 rmg_rxn_16585,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16761,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16761,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1053
 rmg_rxn_16451,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10518
 rmg_rxn_16657,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,7734
-rmg_rxn_16727,Zeus,False,Could not find value in dictionary,,crest_debug_statement,
+rmg_rxn_16727,Zeus,False,Could not find value in dictionary,,crest,
 rmg_rxn_16404,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10924
-rmg_rxn_16634,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16634,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,457
 rmg_rxn_16802,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16455,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12303
 rmg_rxn_16352,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10555
 rmg_rxn_16470,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16683,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12261
-rmg_rxn_16701,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16701,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,413
 rmg_rxn_16479,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16578,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16578,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,738
 rmg_rxn_16511,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16287,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1343
+rmg_rxn_16307,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,14477
+rmg_rxn_16322,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10791
 rmg_rxn_16502,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16792,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16792,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,2852
 rmg_rxn_16378,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12486
 rmg_rxn_16719,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16383,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12113
 rmg_rxn_16410,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11764
-rmg_rxn_16625,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16625,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,374
 rmg_rxn_16757,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,34983
 rmg_rxn_16819,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
 rmg_rxn_16445,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11098
@@ -1716,78 +1763,93 @@ rmg_rxn_16397,Zeus,False,No conformer was found to be isomorphic with the 2D gra
 rmg_rxn_16781,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1937
 rmg_rxn_16426,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10575
 rmg_rxn_16478,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
-rmg_rxn_16730,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16651,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16554,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16279,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1245
+rmg_rxn_16730,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,5250
+rmg_rxn_16282,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2335
+rmg_rxn_16651,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest,445
+rmg_rxn_16271,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,11318
+rmg_rxn_16554,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,9607
 rmg_rxn_16628,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4348
 rmg_rxn_16664,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9537
 rmg_rxn_16765,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16820,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,14084
-rmg_rxn_16543,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16815,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
-rmg_rxn_16616,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16543,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1024
+rmg_rxn_16815,Zeus,False,Product mol combinations - Heuristics,,crest,
+rmg_rxn_16616,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1309
 rmg_rxn_16390,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,18461
 rmg_rxn_16461,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16595,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16595,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,crest,89185
 rmg_rxn_16690,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16728,Zeus,False,Could not find value in dictionary,,crest_debug_statement,
-rmg_rxn_16605,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16334,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9861
+rmg_rxn_16293,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,958
+rmg_rxn_16303,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13465
+rmg_rxn_16314,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9964
+rmg_rxn_16728,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,3185
+rmg_rxn_16328,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10595
+rmg_rxn_16605,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,569
 rmg_rxn_16668,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,5611
-rmg_rxn_16632,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16754,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16632,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,287
+rmg_rxn_16754,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1869
 rmg_rxn_16524,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16708,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1951
-rmg_rxn_16508,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16508,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16631,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16436,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10772
-rmg_rxn_16692,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16615,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16338,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10889
+rmg_rxn_16692,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,426
+rmg_rxn_16312,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12001
+rmg_rxn_16615,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1049
 rmg_rxn_16660,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8664
 rmg_rxn_16456,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10560
-rmg_rxn_16583,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16583,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,539
 rmg_rxn_16371,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10839
 rmg_rxn_16609,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16608,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4087
 rmg_rxn_16791,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16382,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11786
+rmg_rxn_16305,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13448
 rmg_rxn_16688,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,4683
-rmg_rxn_16675,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16726,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16675,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest,433
+rmg_rxn_16726,Zeus,False,Opt did not pass isomorphism check,,crest,2744
 rmg_rxn_16575,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16520,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1583
 rmg_rxn_16448,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11134
 rmg_rxn_16667,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3784
 rmg_rxn_16417,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11201
+rmg_rxn_16324,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10833
 rmg_rxn_16361,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9881
 rmg_rxn_16785,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16747,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1260
 rmg_rxn_16825,Zeus,False,Zip argument #1 must support iteration,,crest_debug_statement,
-rmg_rxn_16656,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16299,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13488
+rmg_rxn_16656,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1942
 rmg_rxn_16366,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11393
 rmg_rxn_16523,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16409,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11356
 rmg_rxn_16721,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16712,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16712,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,346
 rmg_rxn_16413,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,76144
 rmg_rxn_16645,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16637,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16676,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16676,Zeus,False,Heuristics and AutoTST did not find any successful TS guesses,,crest,639
 rmg_rxn_16368,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10802
 rmg_rxn_16474,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16647,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16789,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,5367
 rmg_rxn_16663,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,7848
+rmg_rxn_16308,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,15000
 rmg_rxn_16805,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16530,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
-rmg_rxn_16584,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16584,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,462
 rmg_rxn_16777,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16374,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12043
-rmg_rxn_16636,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16636,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,295
 rmg_rxn_16415,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,25673
 rmg_rxn_16459,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12519
+rmg_rxn_16331,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10456
 rmg_rxn_16774,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16621,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16607,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16621,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,320
+rmg_rxn_16607,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,754
 rmg_rxn_16441,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11041
 rmg_rxn_16498,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16407,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10495
@@ -1796,82 +1858,222 @@ rmg_rxn_16464,Zeus,False,QSUB Illegal attribute or resource value select.mem,,cr
 rmg_rxn_16700,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16783,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,9670
 rmg_rxn_16472,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16541,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16541,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16466,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16399,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10765
 rmg_rxn_16494,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2867
+rmg_rxn_16320,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10906
 rmg_rxn_16393,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11497
 rmg_rxn_16491,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16444,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,34486
 rmg_rxn_16539,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16435,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11078
-rmg_rxn_16587,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
-rmg_rxn_16483,Zeus,False,Product mol combinations - Heuristics,,crest_debug_statement,
+rmg_rxn_16587,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,725
+rmg_rxn_16483,Zeus,False,Product mol combinations - Heuristics,,crest,
 rmg_rxn_16686,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12896
 rmg_rxn_16570,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2850
-rmg_rxn_16563,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16563,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,335
+rmg_rxn_16340,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11087
 rmg_rxn_16821,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,13374
 rmg_rxn_16440,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11701
 rmg_rxn_16695,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16674,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16618,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16535,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16326,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10741
+rmg_rxn_16674,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,499
+rmg_rxn_16291,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,6130
+rmg_rxn_16618,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,719
+rmg_rxn_16535,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest,
 rmg_rxn_16432,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12007
 rmg_rxn_16529,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16339,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11065
 rmg_rxn_16423,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,25278
+rmg_rxn_16294,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1158
 rmg_rxn_16401,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11201
-rmg_rxn_16566,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16729,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16566,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,281
+rmg_rxn_16729,Zeus,True,,heuristics,crest,151187
 rmg_rxn_16425,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11636
 rmg_rxn_16469,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16475,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16475,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,898
 rmg_rxn_16434,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11366
 rmg_rxn_16649,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16431,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11084
-rmg_rxn_16617,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16617,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,371
 rmg_rxn_16567,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2892
-rmg_rxn_16644,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16306,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11586
+rmg_rxn_16644,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1190
 rmg_rxn_16514,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16414,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11763
+rmg_rxn_16275,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,24488
 rmg_rxn_16771,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16551,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16551,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1398
 rmg_rxn_16612,Zeus,False,Could not calculate dihedral angle,,crest_debug_statement,
-rmg_rxn_16586,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16301,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10274
+rmg_rxn_16586,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,907
+rmg_rxn_16298,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1336
 rmg_rxn_16405,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12617
 rmg_rxn_16446,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12243
 rmg_rxn_16377,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,12139
+rmg_rxn_16335,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10740
 rmg_rxn_16629,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,4325
 rmg_rxn_16360,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10531
-rmg_rxn_16598,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16482,Zeus,False,Reactant mol combinations - Heuristics,,crest_debug_statement,
-rmg_rxn_16552,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16598,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,320
+rmg_rxn_16482,Zeus,False,Reactant mol combinations - Heuristics,,crest,
+rmg_rxn_16552,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,311
 rmg_rxn_16353,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10845
-rmg_rxn_16568,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16568,Zeus,False,Reactant mol combinations - Heuristics,,crest,
 rmg_rxn_16768,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3693
 rmg_rxn_16671,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16782,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,2025
 rmg_rxn_16659,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8047
-rmg_rxn_16546,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16546,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1772
 rmg_rxn_16443,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10857
+rmg_rxn_16266,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,20220
 rmg_rxn_16687,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,3210
 rmg_rxn_16679,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8305
 rmg_rxn_16714,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16513,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16549,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16704,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,
+rmg_rxn_16549,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,1417
+rmg_rxn_16704,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,430
 rmg_rxn_16681,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8937
-rmg_rxn_16702,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16702,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,396
+rmg_rxn_16274,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,12402
 rmg_rxn_16648,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
-rmg_rxn_16556,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16289,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,1119
+rmg_rxn_16556,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest,479
 rmg_rxn_16365,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,11089
 rmg_rxn_16488,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,1301
-rmg_rxn_16764,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16315,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,10768
+rmg_rxn_16764,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest,2820
 rmg_rxn_16533,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
 rmg_rxn_16678,Zeus,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_debug_statement,8932
 rmg_rxn_16473,Zeus,False,QSUB Illegal attribute or resource value select.mem,,crest_debug_statement,
+rmg_rxn_16506,Zeus,True,,heuristics,crest,6821
+rmg_rxn_16597,Zeus,True,,heuristics,crest,4085
+rmg_rxn_16807,Zeus,True,,heuristics,crest_debug_statement,25374
+rmg_rxn_16650,Zeus,False,Could not determine likely TS conformer,,crest,27268
+rmg_rxn_16654,Zeus,True,,heuristics,crest,2807
+rmg_rxn_16460,Zeus,True,,heuristics,crest,23022
+rmg_rxn_16484,Zeus,True,,heuristics,crest,16081
+rmg_rxn_16693,Zeus,False,Could not determine likely TS conformer,,crest,27728
+rmg_rxn_16738,Zeus,True,,heuristics,crest,12000
+rmg_rxn_16640,Zeus,True,,heuristics,crest,8587
+rmg_rxn_16532,Zeus,True,,heuristics,crest,20218
+rmg_rxn_16751,Zeus,True,,heuristics,crest,90478
+rmg_rxn_16735,Zeus,True,,heuristics,crest,7752
+rmg_rxn_16706,Zeus,True,,autotst,crest,47802
+rmg_rxn_16480,Zeus,True,,heuristics,crest,4061
+rmg_rxn_16803,Zeus,True,,heuristics,crest_debug_statement,20270
+rmg_rxn_16705,Zeus,True,,heuristics,crest,38393
+rmg_rxn_16531,Zeus,True,,heuristics,crest,50768
+rmg_rxn_16525,Zeus,True,,heuristics,crest,66485
+rmg_rxn_16694,Zeus,False,Could not determine likely TS conformer,,crest,12372
+rmg_rxn_16796,Zeus,True,,autotst,crest_debug_statement,8460
 rmg_rxn_16710,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,142819
+rmg_rxn_16801,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,64057
+rmg_rxn_16698,Zeus,False,Could not determine likely TS conformer,,crest,43544
+rmg_rxn_16653,Zeus,True,,heuristics,crest,25389
+rmg_rxn_16528,Zeus,True,,heuristics,crest,9579
+rmg_rxn_16804,Zeus,True,,heuristics,crest_debug_statement,22948
+rmg_rxn_16800,Zeus,True,,heuristics,crest_debug_statement,162165
+rmg_rxn_16510,Zeus,False,Could not determine likely TS conformer,,crest,16780
+rmg_rxn_16799,Zeus,True,,heuristics,crest_debug_statement,387218
+rmg_rxn_16639,Zeus,True,,heuristics,crest,3871
+rmg_rxn_16643,Zeus,True,,heuristics,crest,22660
+rmg_rxn_16755,Zeus,True,,heuristics,crest,43520
+rmg_rxn_16505,Zeus,True,,heuristics,crest,4604
+rmg_rxn_16467,Zeus,True,,heuristics,crest,17600
+rmg_rxn_16512,Zeus,False,Could not determine likely TS conformer,,crest,9813
+rmg_rxn_16589,Zeus,False,Could not determine likely TS conformer,,crest,1895
 rmg_rxn_16814,Zeus,True,Symmetry GCLIB Error,,crest_debug_statement,187994
+rmg_rxn_16672,Zeus,True,,heuristics,crest,18767
+rmg_rxn_16769,Zeus,False,Could not determine likely TS conformer,,crest,7679
+rmg_rxn_16786,Zeus,True,,autotst,crest_debug_statement,8201
+rmg_rxn_16548,Zeus,True,,heuristics,crest,16599
+rmg_rxn_16522,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,crest,4296
+rmg_rxn_16497,Zeus,True,,heuristics,crest,3867
+rmg_rxn_16501,Zeus,True,,heuristics,crest,4976
+rmg_rxn_16797,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,56917
+rmg_rxn_16737,Zeus,False,Could not determine likely TS conformer,,crest,113766
+rmg_rxn_16699,Zeus,False,Could not determine likely TS conformer,,crest,15229
+rmg_rxn_16613,Zeus,True,,heuristics,crest,29106
+rmg_rxn_16743,Zeus,True,,heuristics,crest,8879
+rmg_rxn_16776,Zeus,True,,autotst,crest_debug_statement,24813
+rmg_rxn_16496,Zeus,True,,heuristics,crest,10791
+rmg_rxn_16731,Zeus,True,,heuristics,crest,65749
+rmg_rxn_16521,Zeus,True,,heuristics,crest,6718
+rmg_rxn_16745,Zeus,False,Could not determine likely TS conformer,,crest,9724
+rmg_rxn_16778,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,64668
+rmg_rxn_16808,Zeus,True,,autotst,crest_debug_statement,75712
+rmg_rxn_16534,Zeus,True,,heuristics,crest,10090
+rmg_rxn_16633,Zeus,True,,heuristics,crest,5555
+rmg_rxn_16493,Zeus,True,,heuristics,crest,6125
+rmg_rxn_16773,Zeus,True,,heuristics,crest_debug_statement,8803
+rmg_rxn_16697,Zeus,False,Could not determine likely TS conformer,,crest,19077
+rmg_rxn_16741,Zeus,True,,heuristics,crest,5163
+rmg_rxn_16571,Zeus,True,,heuristics,crest,4392
+rmg_rxn_16504,Zeus,True,,heuristics,crest,4900
+rmg_rxn_16468,Zeus,True,,heuristics,crest,14772
+rmg_rxn_16515,Zeus,True,,heuristics,crest,3748
+rmg_rxn_16463,Zeus,True,,heuristics,crest,16264
+rmg_rxn_16462,Zeus,True,,heuristics,crest,33381
+rmg_rxn_16713,Zeus,True,,heuristics,crest,5866
+rmg_rxn_16516,Zeus,True,,heuristics,crest,3884
+rmg_rxn_16689,Zeus,True,,heuristics,crest,10076
+rmg_rxn_16481,Zeus,False,Could not determine likely TS conformer,,crest,5530
+rmg_rxn_16795,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,59910
+rmg_rxn_16806,Zeus,True,,heuristics,crest_debug_statement,27922
+rmg_rxn_16507,Zeus,True,,heuristics,crest,1247
+rmg_rxn_16772,Zeus,True,,heuristics,crest,4034
+rmg_rxn_16547,Zeus,True,,heuristics,crest,20370
+rmg_rxn_16779,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,159117
+rmg_rxn_16489,Zeus,True,,heuristics,crest,4524
+rmg_rxn_16646,Zeus,True,,autotst,crest,50105
+rmg_rxn_16585,Zeus,True,,heuristics,crest,66102
+rmg_rxn_16802,Zeus,True,,heuristics,crest_debug_statement,9775
+rmg_rxn_16470,Zeus,True,,heuristics,crest,1930
+rmg_rxn_16479,Zeus,False,Could not determine likely TS conformer,,crest,2123
+rmg_rxn_16511,Zeus,True,,heuristics,crest,2689
+rmg_rxn_16502,Zeus,True,,heuristics,crest,4087
+rmg_rxn_16719,Zeus,True,,heuristics,crest,1907
+rmg_rxn_16819,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,crest_debug_statement,388933
+rmg_rxn_16527,Zeus,True,,heuristics,crest,49390
+rmg_rxn_16555,Zeus,True,,heuristics,crest,16371
+rmg_rxn_16765,Zeus,True,,heuristics,crest,2125
+rmg_rxn_16461,Zeus,True,,heuristics,crest,6005
+rmg_rxn_16690,Zeus,True,,heuristics,crest,20864
+rmg_rxn_16524,Zeus,True,,heuristics,crest,7056
+rmg_rxn_16631,Zeus,False,Could not determine likely TS conformer,,crest,40135
+rmg_rxn_16609,Zeus,True,,autotst,crest,47519
+rmg_rxn_16791,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,crest_debug_statement,179146
+rmg_rxn_16575,Zeus,True,,heuristics,crest,4891
+rmg_rxn_16785,Zeus,True,TS did not pass all checks,heuristics,crest_debug_statement,2957
+rmg_rxn_16523,Zeus,True,,heuristics,crest,4520
+rmg_rxn_16721,Zeus,False,Could not determine likely TS conformer,,crest,4092
+rmg_rxn_16645,Zeus,False,Could not determine likely TS conformer,,crest,231887
+rmg_rxn_16637,Zeus,False,Could not determine likely TS conformer,,crest,22319
+rmg_rxn_16474,Zeus,True,,heuristics,crest,13277
+rmg_rxn_16647,Zeus,True,,heuristics,crest,21218
+rmg_rxn_16777,Zeus,False,Could not determine likely TS conformer,,crest_debug_statement,99831
+rmg_rxn_16774,Zeus,True,,heuristics,crest_debug_statement,20632
+rmg_rxn_16498,Zeus,True,,heuristics,crest,50301
+rmg_rxn_16464,Zeus,True,,heuristics,crest,19580
+rmg_rxn_16700,Zeus,True,,heuristics,crest,7527
+rmg_rxn_16472,Zeus,True,,heuristics,crest,51979
+rmg_rxn_16466,Zeus,True,,heuristics,crest,21351
+rmg_rxn_16491,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,crest,11806
+rmg_rxn_16539,Zeus,False,Could not determine likely TS conformer,,crest,2467
+rmg_rxn_16695,Zeus,False,Could not determine likely TS conformer,,crest,5679
+rmg_rxn_16529,Zeus,True,,heuristics,crest,101198
+rmg_rxn_16469,Zeus,True,,heuristics,crest,38929
+rmg_rxn_16649,Zeus,True,,heuristics,crest,15760
+rmg_rxn_16514,Zeus,True,,heuristics,crest,3843
+rmg_rxn_16771,Zeus,True,,heuristics,crest,3203
+rmg_rxn_16671,Zeus,False,Could not determine likely TS conformer,,crest,15624
+rmg_rxn_16714,Zeus,True,,heuristics,crest,3593
+rmg_rxn_16513,Zeus,True,"Reactant or Product did not converge, but TS did",heuristics,crest,24888
+rmg_rxn_16648,Zeus,True,,heuristics,crest,15021
 rmg_rxn_16734,Zeus,False,Could not troubleshoot geometry optimization of reactants or products,,crest_debug_statement,54151
+rmg_rxn_16533,Zeus,True,,heuristics,crest,73111
+rmg_rxn_16473,Zeus,True,,heuristics,crest,10976
 rmg_rxn_648,Atlas,True,"Reactant or Product did not converge, but TS did",heuristics,crest,54147
 rmg_rxn_419,Atlas,False,Could not determine likely TS conformer,,gauss_trsh_cleanup,17028
 rmg_rxn_1183,Atlas,False,No conformer was found to be isomorphic with the 2D graph representation,,crest_nmd,277472
